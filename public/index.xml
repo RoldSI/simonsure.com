@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Simon Sure</title>
+    <link>https://private-340410.web.app/</link>
+    <description>Recent content on Simon Sure</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://private-340410.web.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://private-340410.web.app/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://private-340410.web.app/about/</guid>
+      <description>My name is Simon Sure. I study Computer Science at ETH Zurich.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://private-340410.web.app/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://private-340410.web.app/contact/</guid>
+      <description>Feel free to contact me at info@simonsure.com.</description>
+    </item>
+    
+    <item>
+      <title>ETHZ</title>
+      <link>https://private-340410.web.app/ethz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://private-340410.web.app/ethz/</guid>
+      <description>This prage provides an overview of study materials, which I create(d) during my studies. You can find the entire content of each semester up to including the second semester here.
+If you have any questions or remarks, do not hesitate to contact me.</description>
+    </item>
+    
+  </channel>
+</rss>

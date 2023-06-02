@@ -1,0 +1,48 @@
+baseURL = 'https://private-340410.web.app'
+languageCode = "en"
+defaultContentLanguage = "en"
+title = 'Simon Sure'
+theme = 'hugo-coder'
+enableEmoji = true
+
+[params]
+author = "Simon Sure"
+description = "Simon Sure's Personal Website"
+keywords = "student,developer,founder,technology,ethz,eth,zurich,computer science"
+info = ["Computer Science Student @ETHZurich, Tech Enthusiast"]
+since = 2023
+colorScheme = "auto"
+math = true
+
+[taxonomies]
+category = "categories"
+series = "series"
+tag = "tags"
+author = "authors"
+
+[[params.social]]
+name = "Github"
+icon = "fa fa-2x fa-github"
+weight = 2
+url = "https://github.com/RoldSI/"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "fa fa-2x fa-linkedin"
+weight = 1
+url = "https://www.linkedin.com/in/simon-sure/"
+
+[[menu.main]]
+name = "About"
+weight = 1
+url = "about/"
+
+[[menu.main]]
+name = "ETHZ"
+weight = 2
+url = "ethz/"
+
+[[menu.main]]
+name = "Contact"
+weight = 3
+url = "contact/"
