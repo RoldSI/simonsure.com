@@ -5,7 +5,22 @@
     <link>https://private-340410.web.app/</link>
     <description>Recent content on Simon Sure</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://private-340410.web.app/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://private-340410.web.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Abitur</title>
+      <link>https://private-340410.web.app/posts/abitur/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://private-340410.web.app/posts/abitur/</guid>
+      <description>This is a collection of resources I created while preparing for my Abitur exams in 2022.
+All information provided here is given without any guarantee!
+Mathematics (intensive course) Link to heading You can find a script here.
+Physics (intensive course) Link to heading You can find a script here.
+German Link to heading To be completed. Files are available in /abitur/german/
+Social Sciences Link to heading You can find a script here.</description>
+    </item>
+    
     <item>
       <title>About</title>
       <link>https://private-340410.web.app/about/</link>
@@ -13,6 +28,15 @@
       
       <guid>https://private-340410.web.app/about/</guid>
       <description>My name is Simon Sure. I study Computer Science at ETH Zurich.</description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>https://private-340410.web.app/blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://private-340410.web.app/blog/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -30,8 +54,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://private-340410.web.app/ethz/</guid>
-      <description>This prage provides an overview of study materials, which I create(d) during my studies. You can find the entire content of each semester up to including the second semester here.
-If you have any questions or remarks, do not hesitate to contact me.</description>
+      <description>This prage provides an overview of study materials, which I create(d) during my studies. I do not take responsibility for correctness or completeness. If you have any questions or remarks, do not hesitate to contact me.
+You can find the entire content of each semester up to including the second semester here. This should be your prefered reference.
+Additionally, here are some single documents. But those are also all included in the above collection.</description>
     </item>
     
   </channel>

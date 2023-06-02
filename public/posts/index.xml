@@ -1,20 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Simon Sure</title>
+    <title>Some older sites... on Simon Sure</title>
     <link>https://private-340410.web.app/posts/</link>
-    <description>Recent content in Posts on Simon Sure</description>
+    <description>Recent content in Some older sites... on Simon Sure</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Jun 2023 22:17:52 +0200</lastBuildDate><atom:link href="https://private-340410.web.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://private-340410.web.app/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>https://private-340410.web.app/posts/my-first-post/</link>
-      <pubDate>Fri, 02 Jun 2023 22:17:52 +0200</pubDate>
+      <title>Abitur</title>
+      <link>https://private-340410.web.app/posts/abitur/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://private-340410.web.app/posts/my-first-post/</guid>
-      <description>Introduction Link to heading This is bold text, and this is emphasized text.
-Visit the Hugo website!</description>
+      <guid>https://private-340410.web.app/posts/abitur/</guid>
+      <description>This is a collection of resources I created while preparing for my Abitur exams in 2022.
+All information provided here is given without any guarantee!
+Mathematics (intensive course) Link to heading You can find a script here.
+Physics (intensive course) Link to heading You can find a script here.
+German Link to heading To be completed. Files are available in /abitur/german/
+Social Sciences Link to heading You can find a script here.</description>
     </item>
     
   </channel>

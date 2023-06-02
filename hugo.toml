@@ -10,6 +10,7 @@ author = "Simon Sure"
 description = "Simon Sure's Personal Website"
 keywords = "student,developer,founder,technology,ethz,eth,zurich,computer science"
 info = ["Computer Science Student @ETHZurich, Tech Enthusiast"]
+avatarURL = "portraits/avatar.jpg"
 since = 2023
 colorScheme = "auto"
 math = true
@@ -43,6 +44,11 @@ weight = 2
 url = "ethz/"
 
 [[menu.main]]
-name = "Contact"
+name = "Blog"
 weight = 3
+url = "posts/"
+
+[[menu.main]]
+name = "Contact"
+weight = 4
 url = "contact/"
