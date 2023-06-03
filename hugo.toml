@@ -4,15 +4,20 @@ defaultContentLanguage = "en"
 title = 'Simon Sure'
 theme = 'hugo-coder'
 enableEmoji = true
+googleAnalytics = "G-K9QXMKQWG7"
 
 [params]
 author = "Simon Sure"
 description = "Simon Sure's Personal Website"
 keywords = "student,developer,founder,technology,ethz,eth,zurich,computer science"
 info = ["Computer Science Student @ETHZurich, Tech Enthusiast"]
+avatarURL = "portraits/avatar.jpg"
 since = 2023
 colorScheme = "auto"
 math = true
+
+[params.googleTagManager]
+id = "G-K9QXMKQWG7"
 
 [taxonomies]
 category = "categories"
@@ -20,11 +25,11 @@ series = "series"
 tag = "tags"
 author = "authors"
 
-[[params.social]]
-name = "Github"
-icon = "fa fa-2x fa-github"
-weight = 2
-url = "https://github.com/RoldSI/"
+#[[params.social]]
+#name = "Github"
+#icon = "fa fa-2x fa-github"
+#weight = 2
+#url = "https://github.com/RoldSI/"
 
 [[params.social]]
 name = "LinkedIn"
@@ -43,6 +48,11 @@ weight = 2
 url = "ethz/"
 
 [[menu.main]]
-name = "Contact"
+name = "Blog"
 weight = 3
+url = "posts/"
+
+[[menu.main]]
+name = "Contact"
+weight = 4
 url = "contact/"

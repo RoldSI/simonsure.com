@@ -2,9 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://private-340410.web.app/posts/abitur/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://private-340410.web.app/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://private-340410.web.app/posts/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://private-340410.web.app/about/</loc>
   </url><url>
     <loc>https://private-340410.web.app/authors/</loc>
+  </url><url>
+    <loc>https://private-340410.web.app/blog/</loc>
   </url><url>
     <loc>https://private-340410.web.app/categories/</loc>
   </url><url>
@@ -13,8 +24,6 @@
     <loc>https://private-340410.web.app/ethz/</loc>
   </url><url>
     <loc>https://private-340410.web.app/series/</loc>
-  </url><url>
-    <loc>https://private-340410.web.app/</loc>
   </url><url>
     <loc>https://private-340410.web.app/tags/</loc>
   </url>
