@@ -7,3 +7,5 @@ draft: false
 ---
 
 Feel free to contact me at [info@simonsure.com](mailto:info@simonsure.com).
+
+You may also reach me at [sisure@student.ethz.ch](mailto:sisure@student.ethz.ch).
