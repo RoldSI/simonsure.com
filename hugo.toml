@@ -4,6 +4,7 @@ defaultContentLanguage = "en"
 title = 'Simon Sure'
 theme = 'hugo-coder'
 enableEmoji = true
+googleAnalytics = "G-K9QXMKQWG7"
 
 [params]
 author = "Simon Sure"
@@ -15,17 +16,20 @@ since = 2023
 colorScheme = "auto"
 math = true
 
+[params.googleTagManager]
+id = "G-K9QXMKQWG7"
+
 [taxonomies]
 category = "categories"
 series = "series"
 tag = "tags"
 author = "authors"
 
-[[params.social]]
-name = "Github"
-icon = "fa fa-2x fa-github"
-weight = 2
-url = "https://github.com/RoldSI/"
+#[[params.social]]
+#name = "Github"
+#icon = "fa fa-2x fa-github"
+#weight = 2
+#url = "https://github.com/RoldSI/"
 
 [[params.social]]
 name = "LinkedIn"
