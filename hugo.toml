@@ -37,10 +37,10 @@ icon = "fa fa-2x fa-linkedin"
 weight = 1
 url = "https://www.linkedin.com/in/simon-sure/"
 
-[[menu.main]]
-name = "About"
-weight = 1
-url = "about/"
+# [[menu.main]]
+# name = "About"
+# weight = 1
+# url = "about/"
 
 [[menu.main]]
 name = "ETHZ"

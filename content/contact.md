@@ -6,6 +6,6 @@ author: "Simon Sure"
 draft: false
 ---
 
-Feel free to contact me at [info@simonsure.com](mailto:info@simonsure.com).
+Feel free to contact me at [info@simonsure.com](mailto:info@simonsure.com) or send me a message on [LinkedIn](https://www.linkedin.com/in/simon-sure/).
 
 You may also reach me at [sisure@student.ethz.ch](mailto:sisure@student.ethz.ch).

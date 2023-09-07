@@ -6,11 +6,17 @@ author: "Simon Sure"
 draft: false
 ---
 
-This prage provides an overview of study materials, which I create(d) during my studies. I do not take responsibility for correctness or completeness. If you have any questions or remarks, do not hesitate to contact me.
+This prage provides an overview of study materials, which I create(d) during my studies. I do not take responsibility for correctness or completeness. If you have any questions or remarks, do not hesitate to [send me a message](/contact).
 
-You can find the entire content of each semester up to including the second semester [here](https://ethz.simonsure.com). This should be your prefered reference.
+You can find my notes from during  each semester up to including the second semester [here](https://ethz.simonsure.com).
 
-Additionally, here are some single documents. But those are also all included in the above collection.
+You can find more polished summaries and resources listed below for download.
+
+## 2nd semester
+- [Parallel Programming Essentials](/ethz/semester2/parallele-programmierung.pdf)
+- [Algorithms and Probability Essentials](/ethz/semester2/algorithms-and-probability.pdf)
+
+## 1st semester
 - [Algorithms and Data Structures Essentials](/ethz/semester1/Algorithms-and-data-structures.pdf)
 - [Discrete Mathematics Cheat Sheet](/ethz/semester1/discrete-mathematics-cheat-sheet.pdf)
 - [Linear Algebra cheat Sheet](/ethz/semester1/linear-algebra-cheat-sheet.pdf)
