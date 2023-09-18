@@ -1,4 +1,4 @@
-baseURL = 'https://private-340410.web.app'
+baseURL = 'https://simonsure.com'
 languageCode = "en"
 defaultContentLanguage = "en"
 title = 'Simon Sure'
@@ -10,7 +10,7 @@ googleAnalytics = "G-K9QXMKQWG7"
 author = "Simon Sure"
 description = "Simon Sure's Personal Website"
 keywords = "student,developer,founder,technology,ethz,eth,zurich,computer science"
-info = ["Computer Science Student @ETHZurich, Tech Enthusiast"]
+info = ["CS Student @ETHZurich, TA @ETHZurich, Founder @FLIZAR, Tech Enthusiast"]
 avatarURL = "portraits/avatar.jpg"
 since = 2023
 colorScheme = "auto"
@@ -25,34 +25,57 @@ series = "series"
 tag = "tags"
 author = "authors"
 
-#[[params.social]]
-#name = "Github"
-#icon = "fa fa-2x fa-github"
-#weight = 2
-#url = "https://github.com/RoldSI/"
-
 [[params.social]]
 name = "LinkedIn"
 icon = "fa fa-2x fa-linkedin"
 weight = 1
 url = "https://www.linkedin.com/in/simon-sure/"
 
-# [[menu.main]]
-# name = "About"
-# weight = 1
-# url = "about/"
+[[params.social]]
+name = "X/Twitter"
+icon = "fa fa-2x fa-twitter"
+weight = 3
+url = "https://twitter.com/rold_si"
+
+[[params.social]]
+name = "Github"
+icon = "fa fa-2x fa-github"
+weight = 4
+url = "https://github.com/RoldSI/"
+
+[[params.social]]
+name = "Resume"
+icon = "fa fa-2x fa-file"
+weight = 5
+url = "/simon_sure_resume.pdf"
+
+[[params.social]]
+name = "Mail"
+icon = "fa fa-2x fa-envelope"
+weight = 6
+url = "mailto:info@simonsure.com"
+
+[[menu.main]]
+name = "About"
+weight = 1
+url = "about/"
+
+[[menu.main]]
+name = "Projects"
+weight = 3
+url = "projects/"
 
 [[menu.main]]
 name = "ETHZ"
-weight = 2
+weight = 4
 url = "ethz/"
 
 [[menu.main]]
-name = "Blog"
-weight = 3
+name = "Deprecated"
+weight = 5
 url = "posts/"
 
 [[menu.main]]
 name = "Contact"
-weight = 4
+weight = 6
 url = "contact/"

@@ -1,6 +1,6 @@
 ---
 title: "ETHZ"
-description: "About Simon Sure"
+description: "ETH Zurich Study Material of Simon Sure"
 author: "Simon Sure"
 #date: 2023-06-02T22:42:09+02:00
 draft: false

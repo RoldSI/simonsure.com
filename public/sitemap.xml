@@ -2,29 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://private-340410.web.app/posts/abitur/</loc>
+    <loc>https://simonsure.com/posts/abitur/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://private-340410.web.app/</loc>
+    <loc>https://simonsure.com/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://private-340410.web.app/posts/</loc>
+    <loc>https://simonsure.com/posts/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://private-340410.web.app/about/</loc>
+    <loc>https://simonsure.com/about/</loc>
   </url><url>
-    <loc>https://private-340410.web.app/authors/</loc>
+    <loc>https://simonsure.com/authors/</loc>
   </url><url>
-    <loc>https://private-340410.web.app/blog/</loc>
+    <loc>https://simonsure.com/blog/</loc>
   </url><url>
-    <loc>https://private-340410.web.app/categories/</loc>
+    <loc>https://simonsure.com/categories/</loc>
   </url><url>
-    <loc>https://private-340410.web.app/contact/</loc>
+    <loc>https://simonsure.com/contact/</loc>
   </url><url>
-    <loc>https://private-340410.web.app/ethz/</loc>
+    <loc>https://simonsure.com/ethz/</loc>
   </url><url>
-    <loc>https://private-340410.web.app/series/</loc>
+    <loc>https://simonsure.com/projects/</loc>
   </url><url>
-    <loc>https://private-340410.web.app/tags/</loc>
+    <loc>https://simonsure.com/series/</loc>
+  </url><url>
+    <loc>https://simonsure.com/tags/</loc>
   </url>
 </urlset>

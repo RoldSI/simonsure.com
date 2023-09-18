@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Simon Sure</title>
-    <link>https://private-340410.web.app/</link>
+    <link>https://simonsure.com/</link>
     <description>Recent content on Simon Sure</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://private-340410.web.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://simonsure.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Abitur</title>
-      <link>https://private-340410.web.app/posts/abitur/</link>
+      <link>https://simonsure.com/posts/abitur/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://private-340410.web.app/posts/abitur/</guid>
+      <guid>https://simonsure.com/posts/abitur/</guid>
       <description>This is a collection of resources I created while preparing for my Abitur exams in 2022.
 All information provided here is given without any guarantee!
 Mathematics (intensive course) Link to heading You can find a script here.
@@ -23,42 +23,53 @@ Social Sciences Link to heading You can find a script here.</description>
     
     <item>
       <title>About</title>
-      <link>https://private-340410.web.app/about/</link>
+      <link>https://simonsure.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://private-340410.web.app/about/</guid>
-      <description>My name is Simon Sure. I study Computer Science at ETH Zurich.</description>
+      <guid>https://simonsure.com/about/</guid>
+      <description>My name is Simon Sure, I&amp;rsquo;m 19 years old and currently located in Zurich, Switzerland. I am originally from Kempen, Germany and moved for my Computer Science Bachelor studies to Switzerland. I enjoy working intensively on projects but still focus mostly on my studies @ETHZurich. Besides, I join events from institutions and companies whenever possible. To balance all those activities, I go running regularly and currently train for marathons.
+Since the semester which started in September 2023, I am teaching assistant for Discrete Mathematics @ETHZurich.</description>
     </item>
     
     <item>
       <title>Blog</title>
-      <link>https://private-340410.web.app/blog/</link>
+      <link>https://simonsure.com/blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://private-340410.web.app/blog/</guid>
+      <guid>https://simonsure.com/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://private-340410.web.app/contact/</link>
+      <link>https://simonsure.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://private-340410.web.app/contact/</guid>
-      <description>Feel free to contact me at info@simonsure.com or send me a message on LinkedIn.
-You may also reach me at sisure@student.ethz.ch.</description>
+      <guid>https://simonsure.com/contact/</guid>
+      <description> email: info@simonsure.com LinkedIn meeting/talk </description>
     </item>
     
     <item>
       <title>ETHZ</title>
-      <link>https://private-340410.web.app/ethz/</link>
+      <link>https://simonsure.com/ethz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://private-340410.web.app/ethz/</guid>
+      <guid>https://simonsure.com/ethz/</guid>
       <description>This prage provides an overview of study materials, which I create(d) during my studies. I do not take responsibility for correctness or completeness. If you have any questions or remarks, do not hesitate to send me a message.
 You can find my notes from during each semester up to including the second semester here.
 You can find more polished summaries and resources listed below for download.
 2nd semester Link to heading Parallel Programming Essentials Algorithms and Probability Essentials 1st semester Link to heading Algorithms and Data Structures Essentials Discrete Mathematics Cheat Sheet Linear Algebra cheat Sheet </description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://simonsure.com/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://simonsure.com/projects/</guid>
+      <description>This showcases some of the projects I have worked on in recent years. If you have any questions or want to learn more, please reach out.
+Currently, I am working on FLIZAR, an AI-powered exam prepration tool for students and lectureres. Also, I participate in and am always on the lookout for Hackathons (and other events). If you can recommand any hackathon or event, please let me know.
+FLIZAR Link to heading FLIZAR originated with the Digital Seeds ideathon.</description>
     </item>
     
   </channel>

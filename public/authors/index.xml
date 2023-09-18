@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Simon Sure</title>
-    <link>https://private-340410.web.app/authors/</link>
+    <link>https://simonsure.com/authors/</link>
     <description>Recent content in Authors on Simon Sure</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://private-340410.web.app/authors/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://simonsure.com/authors/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
