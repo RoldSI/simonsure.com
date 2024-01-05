@@ -1,5 +1,5 @@
 ---
-title: "Reading List"
+title: "Reading"
 description: "Reading List of Simon Sure"
 author: "Simon Sure"
 #date: 2023-06-02T22:42:09+02:00
@@ -8,19 +8,25 @@ draft: false
 
 **Current Reading**: Thinking, Fast and Slow by Daniel Kahneman
 
-# Possibly Upcoming Readings
-- The Song of the Cell: An Exploration of Medicine and the New Human by Siddhartha Mukherjee
-- Dune by Frank Herbert (and subsequent books)
+# (Possibly) Upcoming Readings
+### fiction
+- Dune by Frank Herbert
+- The Stranger by Albert Camus
+- The Restaurant at the End of the Universe by Douglas Adams
 - The Plague by Albert Camus
-- Invention and Innovation: A Brief History of Hype and Failure by Vaclav Smil
-- How the World Really Works: A Scientist's Guide to Our Past, Present and Future by Vaclav Smil
 - The Redemption of Time (A Three-Body Problem Novel) by Baoshu
-- Second Foundation by Isaac Asimov
 - Foundation's Edge by Isaac Asimov
 - Foundation and Earth by Isaac Asimov
+- Wilhelm Tell by Friedrich Schiller
 - Harry Potter (again 😅) by J. K. Rowling
+### non-fiction
+- The Structure of Scientific Revolutions by Thomas S. Kuhn
+- Meditations by Marcus Aurelius
+- The Song of the Cell: An Exploration of Medicine and the New Human by Siddhartha Mukherjee
+- Invention and Innovation: A Brief History of Hype and Failure by Vaclav Smil
+- How the World Really Works: A Scientist's Guide to Our Past, Present and Future by Vaclav Smil
 
-# Past Readings
+# Selected Past Readings
 - Animal Farm by George Orwell (4 January 2024)
 - Becoming by Michelle Obama (March 2023)
 - Death's End by Liu Cixin (February 2023)
