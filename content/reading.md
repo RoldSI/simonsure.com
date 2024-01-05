@@ -29,6 +29,7 @@ draft: false
 # Selected Past Readings
 - Animal Farm by George Orwell (4 January 2024)
 - Becoming by Michelle Obama (March 2023)
+- The Second Foundation (February 2023)
 - Death's End by Liu Cixin (February 2023)
 - The Dark Forest by Liu Cixin (Feburary 2023)
 - Brave New World by (January 2023)
@@ -37,3 +38,4 @@ draft: false
 - Foundation and Empire by Isaac Asimov (January 2023)
 - Ready Player Two by Ernest Cline (January 2023)
 - The Three-Body Problem by Liu Cixin (January 2023)
+- Foundation by Isaac Asimov (2022)
