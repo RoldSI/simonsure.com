@@ -38,6 +38,12 @@ weight = 3
 url = "https://twitter.com/rold_si"
 
 [[params.social]]
+name = "Instagram"
+icon = "fa fa-2x fa-instagram"
+weight = 3
+url = "https://www.instagram.com/rold_si/"
+
+[[params.social]]
 name = "Github"
 icon = "fa fa-2x fa-github"
 weight = 4
@@ -71,11 +77,16 @@ weight = 4
 url = "ethz/"
 
 [[menu.main]]
-name = "Deprecated"
+name = "Blog"
 weight = 5
-url = "posts/"
+url = "blog/"
+
+[[menu.main]]
+name = "Reading"
+weight = 6
+url = "reading"
 
 [[menu.main]]
 name = "Contact"
-weight = 6
+weight = 7
 url = "contact/"
