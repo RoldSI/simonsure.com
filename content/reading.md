@@ -27,6 +27,7 @@ draft: false
 - How the World Really Works: A Scientist's Guide to Our Past, Present and Future by Vaclav Smil
 
 # Selected Past Readings
+- Harry Potter and the Chamber of Secrets (12 January 2024)
 - Harry Potter and the Philosopher's Stone (9 January 2024)
 - Animal Farm by George Orwell (4 January 2024)
 - Becoming by Michelle Obama (March 2023)
