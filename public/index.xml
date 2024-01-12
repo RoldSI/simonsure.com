@@ -10,35 +10,17 @@
     <atom:link href="https://simonsure.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Abitur</title>
-      <link>https://simonsure.com/blog/2022/abitur/</link>
+      <link>https://simonsure.com/posts/2022/abitur/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://simonsure.com/blog/2022/abitur/</guid>
-      <description>This is a collection of resources I created while preparing for my Abitur exams in 2022.
-All information provided here is given without any guarantee!
-Mathematics (intensive course) Link to heading You can find a script here.
-Physics (intensive course) Link to heading You can find a script here.
-German Link to heading To be completed. Files are available in /abitur/german/
-Social Sciences Link to heading You can find a script here.</description>
-    </item>
-    <item>
-      <title>Abitur</title>
-      <link>https://simonsure.com/posts/abitur/</link>
-      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://simonsure.com/posts/abitur/</guid>
-      <description>This is a collection of resources I created while preparing for my Abitur exams in 2022.
-All information provided here is given without any guarantee!
-Mathematics (intensive course) Link to heading You can find a script here.
-Physics (intensive course) Link to heading You can find a script here.
-German Link to heading To be completed. Files are available in /abitur/german/
-Social Sciences Link to heading You can find a script here.</description>
+      <guid>https://simonsure.com/posts/2022/abitur/</guid>
+      <description>This is a collection of resources I created while preparing for my Abitur exams in 2022.&#xA;All information provided here is given without any guarantee!&#xA;Mathematics (intensive course) Link to heading You can find a script here.&#xA;Physics (intensive course) Link to heading You can find a script here.&#xA;German Link to heading To be completed. Files are available in /abitur/german/&#xA;Social Sciences Link to heading You can find a script here.</description>
     </item>
     <item>
       <title>About</title>
       <link>https://simonsure.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://simonsure.com/about/</guid>
-      <description>My name is Simon Sure, I&amp;rsquo;m 19 years old and currently located in Zurich, Switzerland. I am originally from Kempen, Germany and moved for my Computer Science Bachelor studies to Switzerland. I enjoy working intensively on projects but still focus mostly on my studies @ETHZurich. Besides, I join events from institutions and companies whenever possible. To balance all those activities, I go running regularly and currently train for marathons.
-Since the semester which started in September 2023, I am teaching assistant for Discrete Mathematics @ETHZurich.</description>
+      <description>My name is Simon Sure, I&amp;rsquo;m 19 years old and currently located in Zurich, Switzerland. I am originally from Kempen, Germany and moved for my Computer Science Bachelor studies to Switzerland. I enjoy working intensively on projects but still focus mostly on my studies @ETHZurich. Besides, I join events from institutions and companies whenever possible. To balance all those activities, I go running regularly and currently train for marathons.&#xA;Since the semester which started in September 2023, I am teaching assistant for Discrete Mathematics @ETHZurich.</description>
     </item>
     <item>
       <title>Code References</title>
@@ -59,26 +41,21 @@ Since the semester which started in September 2023, I am teaching assistant for 
       <link>https://simonsure.com/ethz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://simonsure.com/ethz/</guid>
-      <description>This prage provides an overview of study materials, which I create(d) during my studies. I do not take responsibility for correctness or completeness. If you have any questions or remarks, do not hesitate to send me a message.
-You can find my notes from during each semester here. And below are polished summaries and cheat sheets.
-3rd semester (HS23) Link to heading Numerical Methods for Computer Science Systems Programming and Computer Architecture 2nd semester (FS23) Link to heading Parallel Programming Essentials Algorithms and Probability Essentials Digital Design and Computer Architecture Analysis 1 1st semester (HS22) Link to heading Algorithms and Data Structures Essentials Discrete Mathematics Cheat Sheet Linear Algebra cheat Sheet lecture recordings on YouTube Link to heading Numerical Methods for Computer Science - HS23 Analysis 2 - HS23 Theoretische Informatik - HS23 Systems Programming - HS23 </description>
+      <description>This prage provides an overview of study materials, which I create(d) during my studies. I do not take responsibility for correctness or completeness. If you have any questions or remarks, do not hesitate to send me a message.&#xA;You can find my notes from during each semester here. And below are polished summaries and cheat sheets.&#xA;3rd semester (HS23) Link to heading Numerical Methods for Computer Science Systems Programming and Computer Architecture 2nd semester (FS23) Link to heading Parallel Programming Essentials Algorithms and Probability Essentials Digital Design and Computer Architecture Analysis 1 1st semester (HS22) Link to heading Algorithms and Data Structures Essentials Discrete Mathematics Cheat Sheet Linear Algebra cheat Sheet lecture recordings on YouTube Link to heading Numerical Methods for Computer Science - HS23 Analysis 2 - HS23 Theoretische Informatik - HS23 Systems Programming - HS23 </description>
     </item>
     <item>
       <title>Projects</title>
       <link>https://simonsure.com/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://simonsure.com/projects/</guid>
-      <description>This showcases some of the projects I have worked on in recent years. If you have any questions or want to learn more, please reach out.
-Currently, I am working on FLIZAR, an AI-powered exam prepration tool for students and lectureres. Also, I participate in and am always on the lookout for Hackathons (and other events). If you can recommand any hackathon or event, please let me know.
-FLIZAR Link to heading FLIZAR originated with the Digital Seeds ideathon.</description>
+      <description>This showcases some of the projects I have worked on in recent years. If you have any questions or want to learn more, please reach out.&#xA;Currently, I am working on FLIZAR, an AI-powered exam prepration tool for students and lectureres. Also, I participate in and am always on the lookout for Hackathons (and other events). If you can recommand any hackathon or event, please let me know.&#xA;FLIZAR Link to heading FLIZAR originated with the Digital Seeds ideathon.</description>
     </item>
     <item>
       <title>Reading</title>
       <link>https://simonsure.com/reading/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://simonsure.com/reading/</guid>
-      <description>Current Reading: Thinking, Fast and Slow by Daniel Kahneman
-(Possibly) Upcoming Readings Link to heading fiction Link to heading Dune by Frank Herbert The Stranger by Albert Camus The Restaurant at the End of the Universe by Douglas Adams The Plague by Albert Camus The Redemption of Time (A Three-Body Problem Novel) by Baoshu Foundation&amp;rsquo;s Edge by Isaac Asimov Foundation and Earth by Isaac Asimov Wilhelm Tell by Friedrich Schiller Harry Potter (again 😅) by J.</description>
+      <description>Planned Readings Link to heading fiction Link to heading Dune by Frank Herbert The Stranger by Albert Camus The Restaurant at the End of the Universe by Douglas Adams The Plague by Albert Camus The Redemption of Time (A Three-Body Problem Novel) by Baoshu Foundation&amp;rsquo;s Edge by Isaac Asimov Foundation and Earth by Isaac Asimov Wilhelm Tell by Friedrich Schiller Harry Potter (again) by J. K. Rowling non-fiction Link to heading Thinking, Fast and Slow by Daniel Kahneman The Structure of Scientific Revolutions by Thomas S.</description>
     </item>
   </channel>
 </rss>

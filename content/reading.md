@@ -6,9 +6,7 @@ author: "Simon Sure"
 draft: false
 ---
 
-**Current Reading**: Thinking, Fast and Slow by Daniel Kahneman
-
-# (Possibly) Upcoming Readings
+## Planned Readings
 ### fiction
 - Dune by Frank Herbert
 - The Stranger by Albert Camus
@@ -18,15 +16,16 @@ draft: false
 - Foundation's Edge by Isaac Asimov
 - Foundation and Earth by Isaac Asimov
 - Wilhelm Tell by Friedrich Schiller
-- Harry Potter (again 😅) by J. K. Rowling
+- Harry Potter (again) by J. K. Rowling
 ### non-fiction
+- Thinking, Fast and Slow by Daniel Kahneman
 - The Structure of Scientific Revolutions by Thomas S. Kuhn
 - Meditations by Marcus Aurelius
 - The Song of the Cell: An Exploration of Medicine and the New Human by Siddhartha Mukherjee
 - Invention and Innovation: A Brief History of Hype and Failure by Vaclav Smil
 - How the World Really Works: A Scientist's Guide to Our Past, Present and Future by Vaclav Smil
 
-# Selected Past Readings
+## Past Readings
 - Harry Potter and the Chamber of Secrets (12 January 2024)
 - Harry Potter and the Philosopher's Stone (9 January 2024)
 - Animal Farm by George Orwell (4 January 2024)

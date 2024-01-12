@@ -77,9 +77,9 @@ weight = 4
 url = "ethz/"
 
 [[menu.main]]
-name = "Blog"
+name = "Posts"
 weight = 5
-url = "blog/"
+url = "posts/"
 
 [[menu.main]]
 name = "Reading"
