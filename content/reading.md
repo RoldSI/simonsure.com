@@ -25,7 +25,8 @@ draft: false
 - Invention and Innovation: A Brief History of Hype and Failure by Vaclav Smil
 - How the World Really Works: A Scientist's Guide to Our Past, Present and Future by Vaclav Smil
 
-## Past Readings
+## Past Readingsh
+- Harry Potter and the Goblet of Fire (16 January 2024)
 - Harry Potter and the Prizoner of Azkaban (13 January 2024)
 - Harry Potter and the Chamber of Secrets (12 January 2024)
 - Harry Potter and the Philosopher's Stone (9 January 2024)
