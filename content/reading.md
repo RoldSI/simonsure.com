@@ -26,6 +26,7 @@ draft: false
 - How the World Really Works: A Scientist's Guide to Our Past, Present and Future by Vaclav Smil
 
 ## Past Readingsh
+- Harry Potter and the Order of the Phoenix (24 January 2024)
 - Harry Potter and the Goblet of Fire (16 January 2024)
 - Harry Potter and the Prizoner of Azkaban (13 January 2024)
 - Harry Potter and the Chamber of Secrets (12 January 2024)
