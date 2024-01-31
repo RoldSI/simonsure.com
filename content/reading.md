@@ -7,6 +7,15 @@ draft: false
 ---
 
 ## Planned Readings
+### non-fiction
+- Thinking, Fast and Slow by Daniel Kahneman
+- Helsinki: A Cultural History by Neil Kent
+- Modern World History by Dan Allosso & Tom Williford
+- The Structure of Scientific Revolutions by Thomas S. Kuhn
+- Meditations by Marcus Aurelius
+- The Song of the Cell: An Exploration of Medicine and the New Human by Siddhartha Mukherjee
+- Invention and Innovation: A Brief History of Hype and Failure by Vaclav Smil
+- How the World Really Works: A Scientist's Guide to Our Past, Present and Future by Vaclav Smil
 ### fiction
 - Dune by Frank Herbert
 - The Stranger by Albert Camus
@@ -17,15 +26,9 @@ draft: false
 - Foundation and Earth by Isaac Asimov
 - Wilhelm Tell by Friedrich Schiller
 - Harry Potter (again) by J. K. Rowling
-### non-fiction
-- Thinking, Fast and Slow by Daniel Kahneman
-- The Structure of Scientific Revolutions by Thomas S. Kuhn
-- Meditations by Marcus Aurelius
-- The Song of the Cell: An Exploration of Medicine and the New Human by Siddhartha Mukherjee
-- Invention and Innovation: A Brief History of Hype and Failure by Vaclav Smil
-- How the World Really Works: A Scientist's Guide to Our Past, Present and Future by Vaclav Smil
 
 ## Past Readingsh
+- Harry Potter and the Half-Blood Prince (30 January 2024)
 - Harry Potter and the Order of the Phoenix (24 January 2024)
 - Harry Potter and the Goblet of Fire (16 January 2024)
 - Harry Potter and the Prizoner of Azkaban (13 January 2024)
