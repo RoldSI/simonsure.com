@@ -9,10 +9,10 @@ googleAnalytics = "G-K9QXMKQWG7"
 [params]
 author = "Simon Sure"
 description = "Simon Sure's Personal Website"
-keywords = "student,developer,founder,technology,ethz,eth,zurich,computer science"
-info = ["CS Student @ETHZurich, TA @ETHZurich, Founder @FLIZAR, Tech Enthusiast"]
+keywords = "student,intern,nvidia,optiver,princeton,writing,reading,coding,learning,teaching,developer,founder,technology,ethz,eth,zurich,computer science"
+info = ["Systems Intern @NVIDIA, Incoming SWE Intern @Optiver, TA @ETHZurich", "CS Student @ETHZurich, Upcoming Exchange Student @PrincetonUniversity", "Tech Enthusiast"]
 avatarURL = "portraits/avatar.jpg"
-since = 2023
+since = 2022
 colorScheme = "auto"
 math = true
 
