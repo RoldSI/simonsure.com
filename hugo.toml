@@ -34,37 +34,50 @@ url = "https://www.linkedin.com/in/simon-sure/"
 [[params.social]]
 name = "X/Twitter"
 icon = "fa fa-2x fa-twitter"
-weight = 3
+weight = 2
 url = "https://twitter.com/rold_si"
+
+[[params.social]]
+name = "Mastodon"
+icon = "fa fa-2x fa-brands fa-mastodon"
+rel = "me"
+weight = 3
+url = "https://mastodon.social/@simonsure"
+
+[[params.social]]
+name = "Bluesky"
+#icon = "fa fa-2x fa-brands fa-mastodon"
+bluesky = " "
+weight = 4
+url = "https://bsky.app/profile/simonsure.com"
+
+[[params.social]]
+name = "Threads"
+icon = "fa fa-2x fa-brands fa-threads"
+weight = 5
+url = "https://www.threads.net/@rold_si"
 
 [[params.social]]
 name = "Instagram"
 icon = "fa fa-2x fa-instagram"
-weight = 3
+weight = 6
 url = "https://www.instagram.com/rold_si/"
 
 [[params.social]]
 name = "Github"
 icon = "fa fa-2x fa-github"
-weight = 4
+weight = 7
 url = "https://github.com/RoldSI/"
-
-[[params.social]]
-name = "Resume"
-icon = "fa fa-2x fa-file"
-weight = 5
-url = "/simon_sure_resume.pdf"
-
-[[params.social]]
-name = "Mail"
-icon = "fa fa-2x fa-envelope"
-weight = 6
-url = "mailto:info@simonsure.com"
 
 [[menu.main]]
 name = "About"
 weight = 1
 url = "about/"
+
+[[menu.main]]
+name = "Resume"
+weight = 2
+url = "/simon_sure_resume.pdf"
 
 [[menu.main]]
 name = "Projects"

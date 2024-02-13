@@ -6,6 +6,7 @@ author: "Simon Sure"
 draft: false
 ---
 
-- email: [info@simonsure.com](mailto:info@simonsure.com)
-- [LinkedIn](https://www.linkedin.com/in/simon-sure/)
+- email
+    - [info@simonsure.com](mailto:info@simonsure.com) (primary)
+    - [simon.sure@inf.ethz.ch](mailto:simon.sure@inf.ethz.ch)
 - [meeting/talk](https://fantastical.app/simonsure/30-minutes-online)
