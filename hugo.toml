@@ -10,7 +10,7 @@ googleAnalytics = "G-K9QXMKQWG7"
 author = "Simon Sure"
 description = "Simon Sure's Personal Website"
 keywords = "student,intern,nvidia,optiver,princeton,writing,reading,coding,learning,teaching,developer,founder,technology,ethz,eth,zurich,computer science"
-info = ["Systems Intern @NVIDIA, Incoming SWE Intern @Optiver, TA @ETHZurich", "CS Student @ETHZurich, Upcoming Exchange Student @PrincetonUniversity", "Tech Enthusiast"]
+info = ["Systems Intern @NVIDIA, Incoming SWE Intern @Optiver, TA @ETHZurich", "CS Student @ETHZurich, Upcoming Exchange Student @PrincetonUniversity", "Tech Enthusiast, Thinker"]
 avatarURL = "portraits/profile.png"
 since = 2022
 colorScheme = "auto"
@@ -27,13 +27,13 @@ author = "authors"
 
 [[params.social]]
 name = "LinkedIn"
-icon = "fa fa-2x fa-linkedin"
+icon = "fa-2x fa-brands fa-linkedin"
 weight = 1
 url = "https://www.linkedin.com/in/simon-sure/"
 
 [[params.social]]
 name = "X/Twitter"
-icon = "fa fa-2x fa-twitter"
+icon = "fa-2x fa-brands fa-x-twitter"
 weight = 2
 url = "https://twitter.com/rold_si"
 
@@ -59,13 +59,13 @@ url = "https://www.threads.net/@rold_si"
 
 [[params.social]]
 name = "Instagram"
-icon = "fa fa-2x fa-instagram"
+icon = "fa fa-2x fa-brands fa-instagram"
 weight = 6
 url = "https://www.instagram.com/rold_si/"
 
 [[params.social]]
 name = "Github"
-icon = "fa fa-2x fa-github"
+icon = "fa fa-2x fa-brands fa-github"
 weight = 7
 url = "https://github.com/RoldSI/"
 

@@ -13,6 +13,7 @@ You can find my notes from during each semester [here](https://ethz.simonsure.co
 ## 3rd semester (HS23)
 - [Numerical Methods for Computer Science](/ethz/semester3/numcs.pdf)
 - [Systems Programming and Computer Architecture](/ethz/semester3/spca.pdf)
+- [Analysis 2 Cheat Sheet](/ethz/semester3/analysis_2_cheat_sheet.pdf)
 
 ## 2nd semester (FS23)
 - [Parallel Programming Essentials](/ethz/semester2/parallele-programmierung.pdf)
