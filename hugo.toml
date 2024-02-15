@@ -64,9 +64,15 @@ weight = 6
 url = "https://www.instagram.com/rold_si/"
 
 [[params.social]]
+name = "YouTube"
+icon = "fa fa-2x fa-brands fa-youtube"
+weight = 7
+url = "https://www.youtube.com/@rold_si"
+
+[[params.social]]
 name = "Github"
 icon = "fa fa-2x fa-brands fa-github"
-weight = 7
+weight = 8
 url = "https://github.com/RoldSI/"
 
 [[menu.main]]
