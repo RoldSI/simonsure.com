@@ -21,11 +21,11 @@ draft: false
 - The Stranger by Albert Camus
 - The Restaurant at the End of the Universe by Douglas Adams
 - The Plague by Albert Camus
-- The Redemption of Time (A Three-Body Problem Novel) by Baoshu
 - Foundation's Edge by Isaac Asimov
 - Foundation and Earth by Isaac Asimov
 - Wilhelm Tell by Friedrich Schiller
 - Harry Potter (again) by J. K. Rowling
+- The Redemption of Time (A Three-Body Problem Novel) by Baoshu
 
 ## Past Readingsh
 - Harry Potter and the Half-Blood Prince (30 January 2024)
