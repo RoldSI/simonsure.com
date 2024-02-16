@@ -27,7 +27,7 @@ draft: false
 - The Redemption of Time (A Three-Body Problem Novel) by Baoshu
 
 ## Past Readingsh
-- Thinking, Fast and Slow by Daniel Kahneman
+- Thinking, Fast and Slow by Daniel Kahneman (16 February 2024)
 - Harry Potter and the Half-Blood Prince (30 January 2024)
 - Harry Potter and the Order of the Phoenix (24 January 2024)
 - Harry Potter and the Goblet of Fire (16 January 2024)
