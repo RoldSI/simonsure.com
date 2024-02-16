@@ -8,7 +8,6 @@ draft: false
 
 ## Planned Readings
 ### non-fiction
-- Thinking, Fast and Slow by Daniel Kahneman
 - Helsinki: A Cultural History by Neil Kent
 - Modern World History by Dan Allosso & Tom Williford
 - The Structure of Scientific Revolutions by Thomas S. Kuhn
@@ -28,6 +27,7 @@ draft: false
 - The Redemption of Time (A Three-Body Problem Novel) by Baoshu
 
 ## Past Readingsh
+- Thinking, Fast and Slow by Daniel Kahneman
 - Harry Potter and the Half-Blood Prince (30 January 2024)
 - Harry Potter and the Order of the Phoenix (24 January 2024)
 - Harry Potter and the Goblet of Fire (16 January 2024)
