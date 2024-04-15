@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>
+  Polykum: Moving Machines · Simon Sure
+</title>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light dark">
+
+
+
+
+<meta name="author" content="Simon Sure">
+<meta name="description" content="An article on the playful side of robotics in Polykum, the ETH Student Association Magazine.">
+<meta name="keywords" content="student,intern,nvidia,optiver,princeton,writing,reading,coding,learning,teaching,developer,founder,technology,ethz,eth,zurich,computer science">
+
+<meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Polykum: Moving Machines"/>
+<meta name="twitter:description" content="An article on the playful side of robotics in Polykum, the ETH Student Association Magazine."/>
+
+<meta property="og:title" content="Polykum: Moving Machines" />
+<meta property="og:description" content="An article on the playful side of robotics in Polykum, the ETH Student Association Magazine." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://simonsure.com/posts/2024/article-moving-machines/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2024-03-18T00:00:00+00:00" />
+<meta property="article:modified_time" content="2024-03-18T00:00:00+00:00" />
+
+
+
+
+
+<link rel="canonical" href="https://simonsure.com/posts/2024/article-moving-machines/">
+
+
+<link rel="preload" href="/fonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin>
+
+
+  
+  
+  <link rel="stylesheet" href="/css/coder.min.577e3c5ead537873430da16f0964b754a120fd87c4e2203a00686e7c75b51378.css" integrity="sha256-V348Xq1TeHNDDaFvCWS3VKEg/YfE4iA6AGhufHW1E3g=" crossorigin="anonymous" media="screen" />
+
+
+
+
+
+
+  
+    
+    
+    <link rel="stylesheet" href="/css/coder-dark.min.a00e6364bacbc8266ad1cc81230774a1397198f8cfb7bcba29b7d6fcb54ce57f.css" integrity="sha256-oA5jZLrLyCZq0cyBIwd0oTlxmPjPt7y6KbfW/LVM5X8=" crossorigin="anonymous" media="screen" />
+  
+
+
+
+ 
+
+
+
+
+<link rel="icon" type="image/svg+xml" href="/images/favicon.svg" sizes="any">
+<link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
+
+<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+
+
+
+
+
+
+
+
+
+</head>
+
+
+
+
+
+
+<body class="preload-transitions colorscheme-auto">
+  
+<div class="float-container">
+    <a id="dark-mode-toggle" class="colorscheme-toggle">
+        <i class="fa-solid fa-adjust fa-fw" aria-hidden="true"></i>
+    </a>
+</div>
+
+
+  <main class="wrapper">
+    <nav class="navigation">
+  <section class="container">
+    <a class="navigation-title" href="/">
+      Simon Sure
+    </a>
+    
+      <input type="checkbox" id="menu-toggle" />
+      <label class="menu-button float-right" for="menu-toggle">
+        <i class="fa-solid fa-bars fa-fw" aria-hidden="true"></i>
+      </label>
+      <ul class="navigation-list">
+        
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/about/">About</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/simon_sure_resume.pdf">Resume</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/projects/">Projects</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/posts/">Posts</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/ethz/">ETHZ</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/contact/">Contact</a>
+            </li>
+          
+        
+        
+      </ul>
+    
+  </section>
+</nav>
+
+
+    <div class="content">
+      
+  <section class="container post">
+    <article>
+      <header>
+        <div class="post-title">
+          <h1 class="title">
+            <a class="title-link" href="https://simonsure.com/posts/2024/article-moving-machines/">
+              Polykum: Moving Machines
+            </a>
+          </h1>
+        </div>
+        <div class="post-meta">
+          <div class="date">
+            <span class="posted-on">
+              <i class="fa-solid fa-calendar" aria-hidden="true"></i>
+              <time datetime="2024-03-18T00:00:00Z">
+                March 18, 2024
+              </time>
+            </span>
+            <span class="reading-time">
+              <i class="fa-solid fa-clock" aria-hidden="true"></i>
+              6-minute read
+            </span>
+          </div>
+          
+          
+          
+        </div>
+      </header>
+
+      <div class="post-content">
+        
+        <p>Most robots are built to efficiently fulfil specified tasks —  industrial robots being the clear example. Yet robots can also accomplishing fascinating movements and may only find a specific commercial application in the future, if ever. To create this unique movement, engineers often draw inspiration from animals, humans, and fiction.</p>
+<p>Automata have a long history. One could argue that contributions from Alexandrian engineers to hydraulics — movement effected by exerting pressure on incompressible fluids— and pneumatics — movement effected by exerting pressure  on gases— started the development of what one might consider robots. Fascinated by the concept of mechanical servants, humanity already thought of them as self-willed beings. Leonardo da Vinci was among the first to not only envision, but also design a simple humanoid robot. But, for a long time, these human-like machines remained more of a  vision, and were more entertaining than useful.</p>
+<p>While in the modern days function is often prioritized over form, we still have robots advancing in the aesthetics of movement. Acknowledging that form can contribute to function, those robots are gaining practical applications. The characteristics in a robot’s movement conveys unique personalities to us through anthropomorphism and shape our perception of the digital world.
+Modern robotics rely heavily on computerized control. Before, we used pneumatics, logic, and remote control to accomplish simple limb movements. Hydraulics, and pneumatics, dominated initially. Now, electric motors are the norm, due to their precision and high torque. Besides, they make for far less intimidating robots - not needing compressors or spilling oil all over the place.</p>
+<h2 id="spherical-robots">
+  Spherical Robots
+  <a class="heading-link" href="#spherical-robots">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>Comprising a spherical shell and, inside, controls and a moving mass, these robots can roll across surfaces. This makes them very flexible, as they do not have a designated front and back. Their shell can protect them from water and solid objects. One application might be the inspection of pipes. Star Wars’ BB-8 is a well-known spherical robot.
+Self-balancing Robots
+To keep a (two-wheeled) robot balanced on an uneven terrain takes high-torque motors and a sophisticated control system. Being essentially an inverted pendulum, the robot should be able to compute and then execute the necessary actions for restoring itself to equilibrium. The ETH spinoff Ascento built such a robot. This one can also jump on and over obstacles.
+And professor Raffaello D’Andrea’s team build Cubli, a cube that balances on its tip with reaction wheels. Overall, much progress has been made with self-balancing systems, leading up to SpaceX&rsquo;s self-balancing rockets.</p>
+<h2 id="animal-like-robots">
+  Animal-like Robots
+  <a class="heading-link" href="#animal-like-robots">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>Evolution has led to animals moving in very energy-efficient ways. Copied from nature, animal-like robots rely on mechanical intelligence — inherently efficient systems. Humans tend to naturally form strong bonds to these robots — think of robot dogs that get shown off at every occasion. It’s fascinating to see that animal-like robots are not immediately perceived as a tool but rather as an entity. They are fun to play with, but the focus in their development lies mostly on the optimisation of their motion and manoeuvrability.</p>
+<p>Quadrupeds such as Boston Dynamics’ Spot mimic animals with four limbs. The development from Spot’s predecessors Big Dog and LS3 shows how inspiration from nature is used to optimize robots; The introduction of knees now allows for better energy handling. ETH also has the successful spinoff ANYbotics, with its ANYmal quadruped that may be seen around campus.
+Micro robots are similarly intriguing. Harvard University’s RoboBee is a miniature robot imitating bees. It weighs less than 0.2 grams while being over 3 km/h fast. Its nimble appearance is perfectly complemented by its capable miniaturized technology. One can envision their use in rescue operations or environmental monitoring - and more troublesome, monitoring people.</p>
+<h2 id="humanoids">
+  Humanoids
+  <a class="heading-link" href="#humanoids">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>A machine fitting in with humans is a tall order. As it happens, we meet humans on a daily basis, and notice every slight deviation. One might question whether we have even reached the uncanny valley yet. The differences we notice between humanoids and ourselves highlights facets of human behaviour we have yet to fully grasp. Due to human complexity, most humanoids focus on one specific aspect; One is facial expressions. Abel is a robot that’s mostly a torso with a realistic modelling of a child’s face that can show various emotions. Abel detects the emotions of the people around and acts accordingly. There’s a debate to be had about the value of human-robot interactions against purely human ones. I believe they will complement each other in the future.</p>
+<p>Another aspect is movement. Honda’s iconic ASIMO, introduced in 2000, was one of the first to demonstrate bipedal locomotion. Boston Dynamics’ Atlas provides a more recent example. It is hydraulically actuated and capable of various impressive advanced movements including backflips. Such speed and power require superb terrain awareness and short-term prediction capabilities. While its walk and run don’t quite look human, it&rsquo;s superior in other areas. I, for one, at least can’t do a backflip.
+Finally, there are humanoids with a real-world impact. In a world designed for humans, humanoid robots should be the best generalists to perform the widest range of tasks. We want robots to fit in with our society. Yet to be practical, humanoids must walk properly, have good manipulation, payload handling, and a good understanding of their environment. The Figure 01 from Figure is one of the first commercially viable options. Through a collaboration in the car industry, these robots are currently being integrated on the manufacturing floor.
+Another special humanoid is Sofia, an early attempt to integrate humanoids deeply into our society. In 2017, Sofia was granted Saudi Arabian citizenship. Despite the lack of serious impact, this is a surprisingly direct demonstration of the political will for progress — and not true to the current state of robotic skills for political affairs.</p>
+<h2 id="soft-robots">
+  Soft Robots
+  <a class="heading-link" href="#soft-robots">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>A minority in a world of metals and plastics, soft robots are made from soft materials. Being soft, they can flex and deform, making them safer to operate. The Vine Robot can go through holes, tolerate punctures, and is suitable for exploring new environments, driven by compressed air. The vine robot grows by expanding at its tip and turning its body material inside out with internal pressure.</p>
+<h2 id="whats-next">
+  What’s next?
+  <a class="heading-link" href="#whats-next">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>The majority of useful robots today don’t show off with clever locomotion. Industrial robots like large robotic arms demonstrate precision and power but not elegance. The fancy robots are mostly concepts; their creators present what could be done if we pushed technology further. Current advancements combine separate achievements to create more complete and capable robots beyond select demonstrations. Humanoids that would go beyond gimmicks are not that far off in the future. For now though, elegant robots still have to find their place.</p>
+<p>Author: Simon Sure, 20,
+BSc Computer Science, loves all things tech and to get around to experience and discuss the philosophical ramifications of our digital future.</p>
+<p>Excerpt from the print version <a href="/posts/2024/article-moving-machines/polykum_2023_2024_4_moving_machines.pdf" >here</a>.</p>
+
+      </div>
+
+
+      <footer>
+        
+
+
+        
+        
+        
+        
+        
+
+        
+      </footer>
+    </article>
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/katex.min.css"
+    integrity="sha384-vKruj+a13U8yHIkAyGgK1J3ArTLzrFGBbBc0tDp4ad/EyewESeXE/Iv67Aj8gKZ0" crossorigin="anonymous">
+  
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/katex.min.js"
+    integrity="sha384-PwRUT/YqbnEjkZO0zZxNqcxACrXe+j766U2amXcgMg5457rve2Y7I6ZJSm2A0mS4" crossorigin="anonymous"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/contrib/auto-render.min.js"
+    integrity="sha384-+VBxd3r6XgURycqtZ117nYw44OOcIax56Z4dCRWbxyPt0Koah1uHoK0o4+/RRE05" crossorigin="anonymous"
+    onload="renderMathInElement(document.body,
+      {
+        delimiters: [
+          {left: '$$', right: '$$', display:true},
+          {left: '$', right: '$', display:false},
+          {left: '\\(', right: '\\)', display: false},
+          {left: '\\[', right: '\\]', display: true}
+        ]
+      }
+    );"></script>
+  </section>
+
+    </div>
+
+    <footer class="footer">
+  <section class="container">
+    ©
+    
+      2022 -
+    
+    2024
+     Simon Sure 
+    ·
+    
+    Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/" target="_blank" rel="noopener">Coder</a>.
+    
+  </section>
+</footer>
+
+  </main>
+
+  
+
+  
+  
+  <script src="/js/coder.min.6ae284be93d2d19dad1f02b0039508d9aab3180a12a06dcc71b0b0ef7825a317.js" integrity="sha256-auKEvpPS0Z2tHwKwA5UI2aqzGAoSoG3McbCw73gloxc="></script>
+  
+
+  
+
+  
+
+
+  
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-K9QXMKQWG7"></script>
+<script>
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-K9QXMKQWG7', { 'anonymize_ip': false });
+}
+</script>
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-K9QXMKQWG7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-K9QXMKQWG7');
+</script>
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+</body>
+
+</html>
