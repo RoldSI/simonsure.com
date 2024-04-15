@@ -10,7 +10,7 @@ googleAnalytics = "G-K9QXMKQWG7"
 author = "Simon Sure"
 description = "Simon Sure's Personal Website"
 keywords = "student,intern,nvidia,optiver,princeton,writing,reading,coding,learning,teaching,developer,founder,technology,ethz,eth,zurich,computer science"
-info = ["Systems Intern @NVIDIA, Incoming SWE Intern @Optiver, TA @ETHZurich", "CS Student @ETHZurich, Upcoming Exchange Student @PrincetonUniversity", "Tech Enthusiast, Thinker"]
+info = ["Systems Intern @NVIDIA, Incoming SWE Intern @Optiver", "CS Student @ETHZurich, Future Exchange Student @PrincetonUniversity", "Tech Enthusiast, Thinker"]
 avatarURL = "portraits/profile.png"
 since = 2022
 colorScheme = "auto"
@@ -37,25 +37,25 @@ icon = "fa-2x fa-brands fa-x-twitter"
 weight = 2
 url = "https://twitter.com/rold_si"
 
-[[params.social]]
-name = "Mastodon"
-icon = "fa fa-2x fa-brands fa-mastodon"
-rel = "me"
-weight = 3
-url = "https://mastodon.social/@simonsure"
+# [[params.social]]
+# name = "Mastodon"
+# icon = "fa fa-2x fa-brands fa-mastodon"
+# rel = "me"
+# weight = 3
+# url = "https://mastodon.social/@simonsure"
 
-[[params.social]]
-name = "Bluesky"
-#icon = "fa fa-2x fa-brands fa-mastodon"
-bluesky = " "
-weight = 4
-url = "https://bsky.app/profile/simonsure.com"
+# [[params.social]]
+# name = "Bluesky"
+# #icon = "fa fa-2x fa-brands fa-mastodon"
+# bluesky = " "
+# weight = 4
+# url = "https://bsky.app/profile/simonsure.com"
 
-[[params.social]]
-name = "Threads"
-icon = "fa fa-2x fa-brands fa-threads"
-weight = 5
-url = "https://www.threads.net/@rold_si"
+# [[params.social]]
+# name = "Threads"
+# icon = "fa fa-2x fa-brands fa-threads"
+# weight = 5
+# url = "https://www.threads.net/@rold_si"
 
 [[params.social]]
 name = "Instagram"
@@ -91,21 +91,16 @@ weight = 3
 url = "projects/"
 
 [[menu.main]]
-name = "ETHZ"
-weight = 4
-url = "ethz/"
-
-[[menu.main]]
 name = "Posts"
-weight = 5
+weight = 4
 url = "posts/"
 
 [[menu.main]]
-name = "Reading"
-weight = 6
-url = "reading"
+name = "ETHZ"
+weight = 5
+url = "ethz/"
 
 [[menu.main]]
 name = "Contact"
-weight = 7
+weight = 6
 url = "contact/"
