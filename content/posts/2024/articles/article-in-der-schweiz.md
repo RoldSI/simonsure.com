@@ -3,7 +3,7 @@ title: "Polykum: In der Schweiz"
 description: "An article on the playful side of robotics in Polykum, the ETH Student Association Magazine."
 date: 2024-04-15
 author: "Simon Sure"
-draft: false
+draft: true
 ---
 
 Meine Motivation für den Weg in die Schweiz war nicht die Schweiz als Land, sondern der Ruf der ETH. Vor meinem Umzug hatte ich mich nie ernsthaft gesellschaftlich mit meinem neuen Wohnland auseinandergesetzt. Ich habe unreflektiert und ignorant angenommen, dass die Unterschiede zu Deutschland nicht gigantisch sein würden und deshalb keinen Kulturschock erwartet. Doch je länger ich hier lebe, desto deutlicher werden die Unterschiede. An der ETH und im akademischen Umfeld allgemein sind diese Besonderheiten allerdings weniger ausgeprägt. Das internationale Umfeld wirkt dem Schweizer Charakter entgegen.

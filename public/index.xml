@@ -6,28 +6,42 @@
     <description>Recent content on Simon Sure</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://simonsure.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hackathons 2024</title>
-      <link>https://simonsure.com/posts/2024/hackathons/</link>
-      <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://simonsure.com/posts/2024/hackathons/</guid>
-      <description>This covers my current hackathon plan until the end of June. If you&amp;rsquo;re also participating in one of the envents, please send me a message; I would love to conenct beforehand!&#xA;ETHTallinn, Tallinn, Estonia (19. April - 21. April) ZEISS Computer Vision Hackathon: Reveal the Invisible, Karlsruhe, Germany (26. April - 28. April) EUDIS Hackathon, Milan, Italy (31. May - 2. June) The list will hopefully be extended with time. 🙂</description>
+      <title>Flowboarding April</title>
+      <link>https://simonsure.com/posts/2024/flowboarding-april/</link>
+      <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://simonsure.com/posts/2024/flowboarding-april/</guid>
+      <description></description>
     </item>
     <item>
-      <title>Polykum: In der Schweiz</title>
-      <link>https://simonsure.com/posts/2024/article-in-der-schweiz/</link>
+      <title>Hackathons</title>
+      <link>https://simonsure.com/posts/2024/events/hackathons/</link>
       <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://simonsure.com/posts/2024/article-in-der-schweiz/</guid>
-      <description>Meine Motivation für den Weg in die Schweiz war nicht die Schweiz als Land, sondern der Ruf der ETH. Vor meinem Umzug hatte ich mich nie ernsthaft gesellschaftlich mit meinem neuen Wohnland auseinandergesetzt. Ich habe unreflektiert und ignorant angenommen, dass die Unterschiede zu Deutschland nicht gigantisch sein würden und deshalb keinen Kulturschock erwartet. Doch je länger ich hier lebe, desto deutlicher werden die Unterschiede. An der ETH und im akademischen Umfeld allgemein sind diese Besonderheiten allerdings weniger ausgeprägt.</description>
+      <guid>https://simonsure.com/posts/2024/events/hackathons/</guid>
+      <description>🚀 Exciting times ahead! In the coming weeks, I&amp;rsquo;ll be diving into a series of hackathons across Europe, and I&amp;rsquo;m thrilled to share the journey with you all. Each event presents a unique opportunity to learn, innovate, and connect with incredible people in the tech community.&#xA;🌍 First stop: ETHTallinn in Tallinn, Estonia (April 19-21). This marks my first ETH event experience. ETHTallinn is poised to be the most important event in the Baltics, uniting Ethereum enthusiasts to innovate on DeFi, NFT, and Web3 technologies.</description>
     </item>
     <item>
-      <title>Polykum: Moving Machines</title>
-      <link>https://simonsure.com/posts/2024/article-moving-machines/</link>
-      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://simonsure.com/posts/2024/article-moving-machines/</guid>
-      <description>Most robots are built to efficiently fulfil specified tasks — industrial robots being the clear example. Yet robots can also accomplishing fascinating movements and may only find a specific commercial application in the future, if ever. To create this unique movement, engineers often draw inspiration from animals, humans, and fiction.&#xA;Automata have a long history. One could argue that contributions from Alexandrian engineers to hydraulics — movement effected by exerting pressure on incompressible fluids— and pneumatics — movement effected by exerting pressure on gases— started the development of what one might consider robots.</description>
+      <title>Tampere</title>
+      <link>https://simonsure.com/posts/2024/travel/tampere/</link>
+      <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://simonsure.com/posts/2024/travel/tampere/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Teijo National Park</title>
+      <link>https://simonsure.com/posts/2024/travel/teijo-national-park/</link>
+      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://simonsure.com/posts/2024/travel/teijo-national-park/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Nuuksio National Park</title>
+      <link>https://simonsure.com/posts/2024/travel/nuuksio-national-park/</link>
+      <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://simonsure.com/posts/2024/travel/nuuksio-national-park/</guid>
+      <description></description>
     </item>
     <item>
       <title>Season 2023</title>
@@ -35,6 +49,20 @@
       <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
       <guid>https://simonsure.com/posts/2023/season-2023/</guid>
       <description>Find my look back on Instagram or YouTube.</description>
+    </item>
+    <item>
+      <title>FLIZAR</title>
+      <link>https://simonsure.com/posts/2023/projects/flizar/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://simonsure.com/posts/2023/projects/flizar/</guid>
+      <description>FLIZAR originated with the Digital Seeds ideathon. Our project group formed in early-mid 2023 and since then we have worked hard on our platform.&#xA;FLIZAR enables students to prepare as effficient as possible for their exams (personalized to their specific course considering university and lecturer). This is possible by custom generating an unlimited amount of training materials for each student. The exercises include solutions and FLIZAR adapts to a learner&amp;rsquo;s performance.</description>
+    </item>
+    <item>
+      <title>Field Robot</title>
+      <link>https://simonsure.com/posts/2023/projects/field-robot/</link>
+      <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://simonsure.com/posts/2023/projects/field-robot/</guid>
+      <description>With a team of varying size (2 to 5), we have worked on the Field Robot Development Project. I&amp;rsquo;ve been part of the project from 2019 to 2023.&#xA;The goal was to build a small, mobile agricultural robot for row crops such as corn. The robot ought to be fully autonomous (meaning no GPS, no cellular or other connectivity etc.). Our robot drive system based on a recycled hoverboard, whose motors we reused.</description>
     </item>
     <item>
       <title>Abitur</title>
@@ -73,10 +101,10 @@
     </item>
     <item>
       <title>Projects</title>
-      <link>https://simonsure.com/projects/</link>
+      <link>https://simonsure.com/projects-events/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://simonsure.com/projects/</guid>
-      <description>This showcases some of the projects I have worked on in recent years. If you have any questions or want to learn more, please reach out.&#xA;Currently, I am working on FLIZAR, an AI-powered exam prepration tool for students and lectureres. Also, I participate in and am always on the lookout for Hackathons (and other events). If you can recommand any hackathon or event, please let me know.&#xA;FLIZAR Link to heading FLIZAR originated with the Digital Seeds ideathon.</description>
+      <guid>https://simonsure.com/projects-events/</guid>
+      <description>This showcases some of the projects I have worked on in recent years. If you have any questions or want to learn more, please reach out.&#xA;Currently, I am working on FLIZAR, an AI-powered exam prepration tool for students and lectureres. Also, I participate in and am always on the lookout for Hackathons (and other events). If you can recommand any hackathon or event, please let me know.&#xA;Projects Link to heading FLIZAR Field Robot FloRaWAN Interactive Image Video Hackathons Link to heading Hackathons are great fun and I really enjoy getting a software ready in just a few hours or days.</description>
     </item>
     <item>
       <title>Reading</title>

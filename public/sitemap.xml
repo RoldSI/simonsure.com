@@ -2,23 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://simonsure.com/posts/2024/hackathons/</loc>
-    <lastmod>2024-04-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://simonsure.com/posts/2024/article-in-der-schweiz/</loc>
-    <lastmod>2024-04-15T00:00:00+00:00</lastmod>
+    <loc>https://simonsure.com/posts/2024/flowboarding-april/</loc>
+    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://simonsure.com/posts/</loc>
-    <lastmod>2024-04-15T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://simonsure.com/</loc>
+    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://simonsure.com/posts/2024/events/hackathons/</loc>
     <lastmod>2024-04-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonsure.com/posts/2024/article-moving-machines/</loc>
-    <lastmod>2024-03-18T00:00:00+00:00</lastmod>
+    <loc>https://simonsure.com/posts/2024/travel/tampere/</loc>
+    <lastmod>2024-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://simonsure.com/posts/2024/travel/teijo-national-park/</loc>
+    <lastmod>2024-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://simonsure.com/posts/2024/travel/nuuksio-national-park/</loc>
+    <lastmod>2024-03-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://simonsure.com/posts/2023/season-2023/</loc>
     <lastmod>2023-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://simonsure.com/posts/2023/projects/flizar/</loc>
+    <lastmod>2023-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://simonsure.com/posts/2023/projects/field-robot/</loc>
+    <lastmod>2023-10-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://simonsure.com/deprecated/2022/abitur/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
@@ -38,7 +50,7 @@
   </url><url>
     <loc>https://simonsure.com/ethz/</loc>
   </url><url>
-    <loc>https://simonsure.com/projects/</loc>
+    <loc>https://simonsure.com/projects-events/</loc>
   </url><url>
     <loc>https://simonsure.com/reading/</loc>
   </url><url>

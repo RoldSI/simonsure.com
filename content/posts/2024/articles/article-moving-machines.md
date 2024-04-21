@@ -3,7 +3,7 @@ title: "Polykum: Moving Machines"
 description: "An article on the playful side of robotics in Polykum, the ETH Student Association Magazine."
 date: 2024-03-18
 author: "Simon Sure"
-draft: false
+draft: true
 ---
 
 Most robots are built to efficiently fulfil specified tasks —  industrial robots being the clear example. Yet robots can also accomplishing fascinating movements and may only find a specific commercial application in the future, if ever. To create this unique movement, engineers often draw inspiration from animals, humans, and fiction.
