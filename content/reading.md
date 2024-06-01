@@ -17,6 +17,7 @@ draft: false
 - Invention and Innovation: A Brief History of Hype and Failure by Vaclav Smil
 - How the World Really Works: A Scientist's Guide to Our Past, Present and Future by Vaclav Smil
 ### fiction
+- Sophie's World by Jostein Gaarder
 - Dune by Frank Herbert
 - The Stranger by Albert Camus
 - The Restaurant at the End of the Universe by Douglas Adams
