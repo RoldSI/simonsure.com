@@ -6,8 +6,9 @@ author: "Simon Sure"
 draft: false
 ---
 
-## Planned Readings
+## Readings Ideas
 ### non-fiction
+- The Making of Princeton Univeristy by James Axtell
 - Helsinki: A Cultural History by Neil Kent
 - Modern World History by Dan Allosso & Tom Williford
 - The Structure of Scientific Revolutions by Thomas S. Kuhn
@@ -23,10 +24,14 @@ draft: false
 - Foundation's Edge by Isaac Asimov
 - Foundation and Earth by Isaac Asimov
 - Wilhelm Tell by Friedrich Schiller
-- Harry Potter (again) by J. K. Rowling
 - The Redemption of Time (A Three-Body Problem Novel) by Baoshu
 
 ## Past Readingsh
+- Divine Madness (Cherub) by Robert Muchamore
+- The Killing (Cherub) by Robert Muchamore
+- Maximum Security (Cherub) by Robert Muchamore
+- Class A (Cherub) by Robert Muchamore
+- The Recruit (Cherub) by Robert Muchamore
 - Thinking, Fast and Slow by Daniel Kahneman (16 February 2024)
 - Harry Potter and the Half-Blood Prince (30 January 2024)
 - Harry Potter and the Order of the Phoenix (24 January 2024)
