@@ -9,6 +9,8 @@ draft: false
 ## Readings Ideas
 ### non-fiction
 - The Making of Princeton Univeristy by James Axtell
+- American History: A Very Short Introduction by Paul S. Boyer
+- The Worlds I See: Curiosity, Exploration, and Discovery at the Dawn of AI by Fei-Fei Li
 - Helsinki: A Cultural History by Neil Kent
 - Modern World History by Dan Allosso & Tom Williford
 - The Structure of Scientific Revolutions by Thomas S. Kuhn
@@ -18,6 +20,7 @@ draft: false
 - How the World Really Works: A Scientist's Guide to Our Past, Present and Future by Vaclav Smil
 ### fiction
 - Sophie's World by Jostein Gaarder
+- Der Prozeß by Franz Kafka
 - Dune by Frank Herbert
 - The Stranger by Albert Camus
 - The Restaurant at the End of the Universe by Douglas Adams

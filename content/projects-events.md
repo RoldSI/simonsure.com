@@ -8,7 +8,9 @@ draft: false
 
 This showcases some of the projects I have worked on in recent years. If you have any questions or want to learn more, please [reach out](/contact).
 
-Currently, I am working on FLIZAR, an AI-powered exam prepration tool for students and lectureres. Also, I participate in and am always on the lookout for Hackathons (and other events). If you can recommand any hackathon or event, please [let me know](/contact).
+While studying I provide my notes and preparation scripts online. You can find those [here](/ethz).
+
+Also, I participate in and am always on the lookout for Hackathons (and other events). If you can recommand any hackathon or event (globally), please [let me know](/contact).
 
 # Projects
 - [FLIZAR](/posts/2023/projects/flizar/)

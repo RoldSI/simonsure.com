@@ -87,14 +87,14 @@ weight = 3
 url = "projects-events/"
 
 [[menu.main]]
-name = "Posts"
+name = "Reading"
 weight = 4
-url = "posts/"
+url = "reading/"
 
 [[menu.main]]
-name = "ETHZ"
+name = "Posts"
 weight = 5
-url = "ethz/"
+url = "posts/"
 
 [[menu.main]]
 name = "Contact"
