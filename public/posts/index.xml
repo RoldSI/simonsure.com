@@ -2,66 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Simon Sure</title>
-    <link>https://simonsure.com/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Simon Sure</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://simonsure.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ETHTallinn 2024</title>
+      <link>http://localhost:1313/posts/2024/events/ethtallinn/</link>
+      <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2024/events/ethtallinn/</guid>
+      <description>LinkedIn Text&#xA;missing YT-Short LinkedIn X/Twitter </description>
+    </item>
     <item>
       <title>Flowboarding April</title>
-      <link>https://simonsure.com/posts/2024/flowboarding-april/</link>
+      <link>http://localhost:1313/posts/2024/flowboarding-april/</link>
       <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://simonsure.com/posts/2024/flowboarding-april/</guid>
+      <guid>http://localhost:1313/posts/2024/flowboarding-april/</guid>
       <description></description>
     </item>
     <item>
       <title>Hackathons</title>
-      <link>https://simonsure.com/posts/2024/events/hackathons/</link>
+      <link>http://localhost:1313/posts/2024/events/hackathons/</link>
       <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://simonsure.com/posts/2024/events/hackathons/</guid>
+      <guid>http://localhost:1313/posts/2024/events/hackathons/</guid>
       <description>🚀 Exciting times ahead! In the coming weeks, I&amp;rsquo;ll be diving into a series of hackathons across Europe, and I&amp;rsquo;m thrilled to share the journey with you all. Each event presents a unique opportunity to learn, innovate, and connect with incredible people in the tech community.&#xA;🌍 First stop: ETHTallinn in Tallinn, Estonia (April 19-21). This marks my first ETH event experience. ETHTallinn is poised to be the most important event in the Baltics, uniting Ethereum enthusiasts to innovate on DeFi, NFT, and Web3 technologies.</description>
     </item>
     <item>
       <title>Tampere</title>
-      <link>https://simonsure.com/posts/2024/travel/tampere/</link>
+      <link>http://localhost:1313/posts/2024/travel/tampere/</link>
       <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://simonsure.com/posts/2024/travel/tampere/</guid>
+      <guid>http://localhost:1313/posts/2024/travel/tampere/</guid>
       <description></description>
     </item>
     <item>
       <title>Teijo National Park</title>
-      <link>https://simonsure.com/posts/2024/travel/teijo-national-park/</link>
+      <link>http://localhost:1313/posts/2024/travel/teijo-national-park/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://simonsure.com/posts/2024/travel/teijo-national-park/</guid>
+      <guid>http://localhost:1313/posts/2024/travel/teijo-national-park/</guid>
       <description> </description>
     </item>
     <item>
       <title>Nuuksio National Park</title>
-      <link>https://simonsure.com/posts/2024/travel/nuuksio-national-park/</link>
+      <link>http://localhost:1313/posts/2024/travel/nuuksio-national-park/</link>
       <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://simonsure.com/posts/2024/travel/nuuksio-national-park/</guid>
+      <guid>http://localhost:1313/posts/2024/travel/nuuksio-national-park/</guid>
       <description></description>
     </item>
     <item>
       <title>Season 2023</title>
-      <link>https://simonsure.com/posts/2023/season-2023/</link>
+      <link>http://localhost:1313/posts/2023/season-2023/</link>
       <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://simonsure.com/posts/2023/season-2023/</guid>
+      <guid>http://localhost:1313/posts/2023/season-2023/</guid>
       <description>Find my look back on Instagram or YouTube.</description>
     </item>
     <item>
       <title>FLIZAR</title>
-      <link>https://simonsure.com/posts/2023/projects/flizar/</link>
+      <link>http://localhost:1313/posts/2023/projects/flizar/</link>
       <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://simonsure.com/posts/2023/projects/flizar/</guid>
+      <guid>http://localhost:1313/posts/2023/projects/flizar/</guid>
       <description>FLIZAR originated with the Digital Seeds ideathon. Our project group formed in early-mid 2023 and since then we have worked hard on our platform.&#xA;FLIZAR enables students to prepare as effficient as possible for their exams (personalized to their specific course considering university and lecturer). This is possible by custom generating an unlimited amount of training materials for each student. The exercises include solutions and FLIZAR adapts to a learner&amp;rsquo;s performance.</description>
     </item>
     <item>
       <title>Field Robot</title>
-      <link>https://simonsure.com/posts/2023/projects/field-robot/</link>
+      <link>http://localhost:1313/posts/2023/projects/field-robot/</link>
       <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://simonsure.com/posts/2023/projects/field-robot/</guid>
+      <guid>http://localhost:1313/posts/2023/projects/field-robot/</guid>
       <description>With a team of varying size (2 to 5), we have worked on the Field Robot Development Project. I&amp;rsquo;ve been part of the project from 2019 to 2023.&#xA;The goal was to build a small, mobile agricultural robot for row crops such as corn. The robot ought to be fully autonomous (meaning no GPS, no cellular or other connectivity etc.). Our robot drive system based on a recycled hoverboard, whose motors we reused.</description>
     </item>
   </channel>

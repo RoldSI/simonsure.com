@@ -2,60 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://simonsure.com/posts/2024/flowboarding-april/</loc>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2024/events/ethtallinn/</loc>
+    <lastmod>2024-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2024/flowboarding-april/</loc>
     <lastmod>2024-04-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonsure.com/posts/</loc>
-    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://simonsure.com/</loc>
-    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://simonsure.com/posts/2024/events/hackathons/</loc>
+    <loc>http://localhost:1313/posts/2024/events/hackathons/</loc>
     <lastmod>2024-04-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonsure.com/posts/2024/travel/tampere/</loc>
+    <loc>http://localhost:1313/posts/2024/travel/tampere/</loc>
     <lastmod>2024-04-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonsure.com/posts/2024/travel/teijo-national-park/</loc>
+    <loc>http://localhost:1313/posts/2024/travel/teijo-national-park/</loc>
     <lastmod>2024-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonsure.com/posts/2024/travel/nuuksio-national-park/</loc>
+    <loc>http://localhost:1313/posts/2024/travel/nuuksio-national-park/</loc>
     <lastmod>2024-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonsure.com/posts/2023/season-2023/</loc>
+    <loc>http://localhost:1313/posts/2023/season-2023/</loc>
     <lastmod>2023-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonsure.com/posts/2023/projects/flizar/</loc>
+    <loc>http://localhost:1313/posts/2023/projects/flizar/</loc>
     <lastmod>2023-12-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonsure.com/posts/2023/projects/field-robot/</loc>
+    <loc>http://localhost:1313/posts/2023/projects/field-robot/</loc>
     <lastmod>2023-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonsure.com/deprecated/2022/abitur/</loc>
+    <loc>http://localhost:1313/deprecated/2022/abitur/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonsure.com/deprecated/</loc>
+    <loc>http://localhost:1313/deprecated/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simonsure.com/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>https://simonsure.com/authors/</loc>
+    <loc>http://localhost:1313/authors/</loc>
   </url><url>
-    <loc>https://simonsure.com/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://simonsure.com/code-references/</loc>
+    <loc>http://localhost:1313/code-references/</loc>
   </url><url>
-    <loc>https://simonsure.com/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
   </url><url>
-    <loc>https://simonsure.com/ethz/</loc>
+    <loc>http://localhost:1313/ethz/</loc>
   </url><url>
-    <loc>https://simonsure.com/projects-events/</loc>
+    <loc>http://localhost:1313/projects-events/</loc>
   </url><url>
-    <loc>https://simonsure.com/reading/</loc>
+    <loc>http://localhost:1313/reading/</loc>
   </url><url>
-    <loc>https://simonsure.com/series/</loc>
+    <loc>http://localhost:1313/series/</loc>
   </url><url>
-    <loc>https://simonsure.com/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
