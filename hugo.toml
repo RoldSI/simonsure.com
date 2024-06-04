@@ -86,10 +86,10 @@ name = "Projects & Events"
 weight = 3
 url = "projects-events/"
 
-[[menu.main]]
-name = "Reading"
-weight = 4
-url = "reading/"
+# [[menu.main]]
+# name = "Reading"
+# weight = 4
+# url = "reading/"
 
 [[menu.main]]
 name = "Posts"

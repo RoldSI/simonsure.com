@@ -12,10 +12,9 @@ draft: false
 - American History: A Very Short Introduction by Paul S. Boyer
 - The Worlds I See: Curiosity, Exploration, and Discovery at the Dawn of AI by Fei-Fei Li
 - Helsinki: A Cultural History by Neil Kent
-- Modern World History by Dan Allosso & Tom Williford
 - The Structure of Scientific Revolutions by Thomas S. Kuhn
 - Meditations by Marcus Aurelius
-- The Song of the Cell: An Exploration of Medicine and the New Human by Siddhartha Mukherjee
+- Modern World History by Dan Allosso & Tom Williford
 - Invention and Innovation: A Brief History of Hype and Failure by Vaclav Smil
 - How the World Really Works: A Scientist's Guide to Our Past, Present and Future by Vaclav Smil
 ### fiction
