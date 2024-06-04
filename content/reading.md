@@ -8,8 +8,6 @@ draft: false
 
 # Readings Ideas
 ## non-fiction
-- Introduction to Linear Algebra by Gilbert Strang
-### textbooks
 - The Making of Princeton Univeristy by James Axtell
 - American History: A Very Short Introduction by Paul S. Boyer
 - The Worlds I See: Curiosity, Exploration, and Discovery at the Dawn of AI by Fei-Fei Li
@@ -19,6 +17,12 @@ draft: false
 - Modern World History by Dan Allosso & Tom Williford
 - Invention and Innovation: A Brief History of Hype and Failure by Vaclav Smil
 - How the World Really Works: A Scientist's Guide to Our Past, Present and Future by Vaclav Smil
+### textbooks
+- Introduction to Linear Algebra by Gilbert Strang
+- Introduction to Finance: Markets, Investments, and Financial Management by Ronald Melicher and Edgar Norton
+- Quantitative Trading: How to Build Your Own Algorithmic Trading Business by Ernest P. Chan
+- Trading and Exchanges: Market Microstructure for Practitioners by Larry Harris
+- Gaming the Market: Applying Game Theory to Create Winning Trading Strategies by Ronald B. Shelton
 
 ## fiction
 - Sophie's World by Jostein Gaarder
