@@ -6,8 +6,10 @@ author: "Simon Sure"
 draft: false
 ---
 
-## Readings Ideas
-### non-fiction
+# Readings Ideas
+## non-fiction
+- Introduction to Linear Algebra by Gilbert Strang
+### textbooks
 - The Making of Princeton Univeristy by James Axtell
 - American History: A Very Short Introduction by Paul S. Boyer
 - The Worlds I See: Curiosity, Exploration, and Discovery at the Dawn of AI by Fei-Fei Li
@@ -17,7 +19,8 @@ draft: false
 - Modern World History by Dan Allosso & Tom Williford
 - Invention and Innovation: A Brief History of Hype and Failure by Vaclav Smil
 - How the World Really Works: A Scientist's Guide to Our Past, Present and Future by Vaclav Smil
-### fiction
+
+## fiction
 - Sophie's World by Jostein Gaarder
 - Der Prozeß by Franz Kafka
 - Dune by Frank Herbert
@@ -29,7 +32,11 @@ draft: false
 - Wilhelm Tell by Friedrich Schiller
 - The Redemption of Time (A Three-Body Problem Novel) by Baoshu
 
-## Past Readingsh
+
+
+
+
+# Past Readings
 - Divine Madness (Cherub) by Robert Muchamore
 - The Killing (Cherub) by Robert Muchamore
 - Maximum Security (Cherub) by Robert Muchamore
