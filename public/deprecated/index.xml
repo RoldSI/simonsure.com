@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Deprecated Content on Simon Sure</title>
-    <link>http://localhost:1313/deprecated/</link>
+    <link>https://simonsure.com/deprecated/</link>
     <description>Recent content in Deprecated Content on Simon Sure</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/deprecated/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://simonsure.com/deprecated/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Abitur</title>
-      <link>http://localhost:1313/deprecated/2022/abitur/</link>
+      <link>https://simonsure.com/deprecated/2022/abitur/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/deprecated/2022/abitur/</guid>
+      <guid>https://simonsure.com/deprecated/2022/abitur/</guid>
       <description>This is a collection of resources I created while preparing for my Abitur exams in 2022.&#xA;All information provided here is given without any guarantee!&#xA;Mathematics (intensive course) Link to heading You can find a script here.&#xA;Physics (intensive course) Link to heading You can find a script here.&#xA;German Link to heading To be completed. Files are available in /abitur/german/&#xA;Social Sciences Link to heading You can find a script here.</description>
     </item>
   </channel>

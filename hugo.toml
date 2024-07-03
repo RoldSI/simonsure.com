@@ -94,7 +94,7 @@ url = "projects-events/"
 [[menu.main]]
 name = "Posts"
 weight = 5
-url = "https://simonsure.notion.site/d53b5cdad58a43a7915f7656caef1b50?v=b27bad76b0af4fb48e32c3a2bb103e82&pvs=4"
+url = "https://notes.simonsure.com"
 
 [[menu.main]]
 name = "Contact"
