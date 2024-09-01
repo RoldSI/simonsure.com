@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "coder-dark.css",
-	"sourceRoot": "/Users/simonsure/Library/Mobile Documents/com~apple~CloudDocs/software development/simonsure.com",
+	"sourceRoot": "/Users/simonsure/software-development/simonsure.com",
 	"sources": [
 		"themes/hugo-coder/assets/scss/coder-dark.scss",
 		"themes/hugo-coder/assets/scss/_variables.scss",

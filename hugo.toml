@@ -9,8 +9,8 @@ enableEmoji = true
 author = "Simon Sure"
 description = "Simon Sure's Personal Website"
 keywords = "student,intern,nvidia,optiver,princeton,writing,reading,coding,learning,teaching,developer,founder,technology,ethz,eth,zurich,computer science"
-info = ["Systems Intern @NVIDIA, Incoming SWE Intern @Optiver", "CS Student @ETHZurich, Future Exchange Student @PrincetonUniversity", "Tech Enthusiast, Thinker"]
-avatarURL = "portraits/profile.png"
+info = ["Exchange Student @PrincetonUniversity, CS Student @ETHZurich", "Former Systems Intern @NVIDIA, Former SWE Intern @Optiver", "Tech Enthusiast, Thinker"]
+avatarURL = "portraits/profile.jpg"
 since = 2022
 colorScheme = "auto"
 math = true
@@ -81,10 +81,10 @@ name = "Resume"
 weight = 2
 url = "/simon_sure_resume.pdf"
 
-[[menu.main]]
-name = "Projects & Events"
-weight = 3
-url = "projects-events/"
+# [[menu.main]]
+# name = "Projects & Events"
+#weight = 3
+# url = "projects-events/"
 
 # [[menu.main]]
 # name = "Reading"
