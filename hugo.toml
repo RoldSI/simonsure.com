@@ -2,7 +2,7 @@ baseURL = 'https://simonsure.com'
 languageCode = "en"
 defaultContentLanguage = "en"
 title = 'Simon Sure'
-theme = 'hugo-coder'
+theme = 'simonsure.com-theme'
 enableEmoji = true
 
 [params]
