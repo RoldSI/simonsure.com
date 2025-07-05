@@ -9,12 +9,10 @@ draft: false
 - email
     - [info@simonsure.com](mailto:info@simonsure.com) (primary)
     - [simon.sure@inf.ethz.ch](mailto:simon.sure@inf.ethz.ch)
-    - [ss9971@princeton.edu](mailto:ss9971@princeton.edu)
-- phone
-    - +1 (609) 423-3115
-    - +41 (0) 798724929 
-- telegram: @simonsure
-- [meeting/talk](https://fantastical.app/simonsure/30-minutes-online)
+    - [ssure@palantir.com](mailto:ssure@palantir.com)
+    - inactive: [ss9971@princeton.edu](mailto:ss9971@princeton.edu)
+    - inactive: [ssure@nvidia.com](mailto:ssure@palantir.com)
+- [meeting/talk](https://fantastical.app/simonsure/15-minutes-online)
 
 # socials
 ### regularly monitored
@@ -27,3 +25,4 @@ draft: false
 - [Bluesky](https://bsky.app/profile/simonsure.com)
 - [Threads](https://www.threads.net/@rold_si)
 - [Instagram](https://www.instagram.com/rold_si/)
+- Telegram: @simonsure
