@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Deprecated Content on Simon Sure</title>
-    <link>http://localhost:1313/deprecated/</link>
+    <link>https://simonsure.com/deprecated/</link>
     <description>Recent content in Deprecated Content on Simon Sure</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/deprecated/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://simonsure.com/deprecated/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Abitur</title>
-      <link>http://localhost:1313/deprecated/2022/abitur/</link>
+      <link>https://simonsure.com/deprecated/2022/abitur/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/deprecated/2022/abitur/</guid>
-      <description>&lt;p&gt;This is a collection of resources I created while preparing for my Abitur exams in 2022.&lt;/p&gt;&#xA;&lt;p&gt;All information provided here is given without any guarantee!&lt;/p&gt;&#xA;&lt;h1 id=&#34;mathematics-intensive-course&#34;&gt;&#xA;  Mathematics (intensive course)&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#mathematics-intensive-course&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;You can find a script &lt;a href=&#34;http://localhost:1313/abitur/math/Mathematik-Abitur.pdf&#34; &gt;here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h1 id=&#34;physics-intensive-course&#34;&gt;&#xA;  Physics (intensive course)&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#physics-intensive-course&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;You can find a script &lt;a href=&#34;http://localhost:1313/abitur/physics/Physik-Abitur.pdf&#34; &gt;here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h1 id=&#34;german&#34;&gt;&#xA;  German&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#german&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;To be completed. Files are available in /abitur/german/&lt;/p&gt;</description>
+      <guid>https://simonsure.com/deprecated/2022/abitur/</guid>
+      <description>&lt;p&gt;This is a collection of resources I created while preparing for my Abitur exams in 2022.&lt;/p&gt;&#xA;&lt;p&gt;All information provided here is given without any guarantee!&lt;/p&gt;&#xA;&lt;h1 id=&#34;mathematics-intensive-course&#34;&gt;&#xA;  Mathematics (intensive course)&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#mathematics-intensive-course&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;You can find a script &lt;a href=&#34;https://simonsure.com/abitur/math/Mathematik-Abitur.pdf&#34; &gt;here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h1 id=&#34;physics-intensive-course&#34;&gt;&#xA;  Physics (intensive course)&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#physics-intensive-course&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;You can find a script &lt;a href=&#34;https://simonsure.com/abitur/physics/Physik-Abitur.pdf&#34; &gt;here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h1 id=&#34;german&#34;&gt;&#xA;  German&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#german&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;To be completed. Files are available in /abitur/german/&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

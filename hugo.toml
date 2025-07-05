@@ -28,9 +28,15 @@ weight = 1
 url = "https://www.linkedin.com/in/simon-sure/"
 
 [[params.social]]
+name = "Substack"
+icon = "fa-2x fa-solid fa-inbox"
+weight = 2
+url = "https://simonsure.substack.com/"
+
+[[params.social]]
 name = "X/Twitter"
 icon = "fa-2x fa-brands fa-x-twitter"
-weight = 2
+weight = 3
 url = "https://twitter.com/rold_si"
 
 # [[params.social]]
@@ -59,11 +65,11 @@ icon = "fa fa-2x fa-brands fa-instagram"
 weight = 6
 url = "https://www.instagram.com/rold_si/"
 
-[[params.social]]
-name = "YouTube"
-icon = "fa fa-2x fa-brands fa-youtube"
-weight = 7
-url = "https://www.youtube.com/@rold_si"
+# [[params.social]]
+# name = "YouTube"
+# icon = "fa fa-2x fa-brands fa-youtube"
+# weight = 7
+# url = "https://www.youtube.com/@rold_si"
 
 [[params.social]]
 name = "Github"
@@ -72,33 +78,22 @@ weight = 8
 url = "https://github.com/RoldSI/"
 
 [[menu.main]]
-name = "About"
+name = "Posts"
 weight = 1
-url = "https://simonsure.substack.com/about"
+url = "https://simonsure.substack.com/"
 
 [[menu.main]]
 name = "Resume"
 weight = 2
-url = "/simon_sure_resume.pdf"
 
 # [[menu.main]]
-# name = "Projects & Events"
-#weight = 3
-# url = "projects-events/"
-
-# [[menu.main]]
-# name = "Reading"
-# weight = 4
-# url = "reading/"
-
-[[menu.main]]
-name = "Posts"
-weight = 5
-url = "https://simonsure.substack.com/"
+# name = "About"
+# weight = 3
+# url = "https://simonsure.substack.com/about"
 
 [[menu.main]]
 name = "Contact"
-weight = 6
+weight = 4
 url = "contact/"
 
 [markup]
