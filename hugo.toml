@@ -9,7 +9,7 @@ enableEmoji = true
 author = "Simon Sure"
 description = "Simon Sure's Personal Website"
 keywords = "student,intern,nvidia,optiver,princeton,writing,reading,coding,learning,teaching,developer,founder,technology,ethz,eth,zurich,computer science"
-info = ["Exchange Student @PrincetonUniversity, CS Student @ETHZurich", "Former Systems Intern @NVIDIA, Former SWE Intern @Optiver", "Tech Enthusiast, Thinker"]
+info = ["CS @ETHZurich, Former CS @PrincetonUniversity", "Dev @Palantir, Former Systems @NVIDIA, Former SWE @Optiver", "Builder, Tech Enthusiast, Thinker"]
 avatarURL = "portraits/profile.jpg"
 since = 2022
 colorScheme = "auto"
@@ -74,7 +74,7 @@ url = "https://github.com/RoldSI/"
 [[menu.main]]
 name = "About"
 weight = 1
-url = "about/"
+url = "https://simonsure.substack.com/about"
 
 [[menu.main]]
 name = "Resume"
@@ -94,7 +94,7 @@ url = "/simon_sure_resume.pdf"
 [[menu.main]]
 name = "Posts"
 weight = 5
-url = "https://notes.simonsure.com"
+url = "https://simonsure.substack.com/"
 
 [[menu.main]]
 name = "Contact"
