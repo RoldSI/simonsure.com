@@ -172,8 +172,6 @@ h1 {
   letter-spacing: 0.06em;
 }
 
-/* ---- PROJECT BOXES ---- */
-
 h2 {
   font-size: 1.5rem;
   font-weight: 600;
@@ -187,21 +185,10 @@ h2 {
   color: var(--color-muted);
 }
 
-/* ---- EDUCATION BOXES ---- */
-
-.edu-second {
-  margin-top: 1.5rem;
-}
-
 /* ---- CONTACT BOX ---- */
 
 .box-contact {
   grid-column: span 2;
-}
-
-.box-links,
-.box-resume {
-  grid-column: span 1;
 }
 
 .big-text {
@@ -240,59 +227,34 @@ h2 {
 /* ---- RESPONSIVE ---- */
 
 @media (max-width: 1024px) {
+  header { padding: 1.5rem; }
+
   .grid {
     grid-template-columns: repeat(2, 1fr);
     padding: 0 1.5rem 1.5rem;
   }
 
-  header {
-    padding: 1.5rem;
-  }
-
   .box-hero {
-    grid-column: span 2;
     grid-row: span 1;
     min-height: 280px;
-  }
-
-  .box-contact {
-    grid-column: span 2;
-  }
-
-  .box-experience {
-    grid-column: span 2;
   }
 }
 
 @media (max-width: 600px) {
+  header { padding: 1.2rem 1rem; }
+
   .grid {
     grid-template-columns: 1fr;
     padding: 0 1rem 1rem;
   }
 
-  header {
-    padding: 1.2rem 1rem;
-  }
-
-  .box-hero,
-  .box-contact,
-  .box-experience {
+  .grid > * {
     grid-column: span 1;
+    grid-row: span 1;
   }
 
-  .box {
-    min-height: 200px;
-  }
-
-  h1 {
-    font-size: 1.6rem;
-  }
-
-  .big-text {
-    font-size: 1.2rem;
-  }
-
-  .box:hover {
-    transform: scale(1.02);
-  }
+  .box { min-height: 200px; }
+  h1 { font-size: 1.6rem; }
+  .big-text { font-size: 1.2rem; }
+  .box:hover { transform: scale(1.02); }
 }
