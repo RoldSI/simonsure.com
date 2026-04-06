@@ -275,6 +275,67 @@ h2 {
   margin-bottom: 0;
 }
 
+/* ---- PUBLICATION LIST ---- */
+
+.pub-list {
+  list-style: none;
+  counter-reset: pub;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.pub-item {
+  display: flex;
+  gap: 2rem;
+  align-items: baseline;
+}
+
+.pub-year {
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  color: var(--color-muted);
+  letter-spacing: 0.06em;
+  flex-shrink: 0;
+  padding-top: 0.15rem;
+}
+
+.pub-details {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+
+.pub-title {
+  font-weight: 500;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+.pub-venue {
+  font-size: 0.85rem;
+  color: var(--color-muted);
+}
+
+.pub-links {
+  display: flex;
+  gap: 1rem;
+  margin-top: 0.2rem;
+}
+
+.pub-links a {
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  color: var(--color-text);
+  text-decoration: none;
+  letter-spacing: 0.04em;
+  transition: color 0.2s;
+}
+
+.pub-links a:hover {
+  color: var(--color-muted);
+}
+
 /* ---- RESPONSIVE ---- */
 
 @media (max-width: 1024px) {
@@ -308,4 +369,9 @@ h2 {
   h1 { font-size: 1.6rem; }
   .big-text { font-size: 1.2rem; }
   .box:hover { transform: scale(1.02); }
+
+  .pub-item {
+    flex-direction: column;
+    gap: 0.4rem;
+  }
 }
