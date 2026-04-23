@@ -262,6 +262,12 @@ h2 {
   min-height: auto;
 }
 
+.box-page-hero:hover,
+.box-page-content:hover,
+.box-page-section:hover {
+  transform: scale(1.02);
+}
+
 .box-page-content p,
 .box-page-section p {
   font-size: 1rem;
@@ -334,6 +340,58 @@ h2 {
 
 .pub-links a:hover {
   color: var(--color-muted);
+}
+
+/* ---- READING PAGE ---- */
+
+.reading-topic {
+  display: flex;
+  flex-direction: column;
+}
+
+.reading-insight {
+  padding-top: 2rem;
+}
+
+.reading-insight:first-child {
+  padding-top: 0;
+}
+
+p.insight-text {
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.6;
+  color: var(--color-text);
+  margin-bottom: 0.15rem;
+}
+
+.source-list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+.source-item {
+  line-height: 1.6;
+}
+
+a.source-title {
+  font-size: 0.72rem;
+  color: var(--color-muted);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+a.source-title:hover {
+  color: var(--color-text);
+}
+
+.source-meta {
+  font-family: var(--font-mono);
+  font-size: 0.62rem;
+  color: var(--color-border);
+  letter-spacing: 0.04em;
 }
 
 /* ---- RESPONSIVE ---- */
