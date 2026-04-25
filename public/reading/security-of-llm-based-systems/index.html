@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Security of LLM-based Systems — Simon Sure</title>
+  <meta name="description" content="Security of LLM-based Systems — Simon Sure">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/style.css?v=4">
+</head>
+<body>
+
+  <header>
+    <a href="/" class="logo">Simon Sure</a>
+    <span class="header-tag">2026</span>
+  </header>
+
+  <div class="grid">
+
+    <div class="box box-page-hero">
+      <div class="box-label">Reading</div>
+      <div class="box-body">
+        <h1>Security of LLM-based Systems</h1>
+      </div>
+      <div class="box-footer"><a href="/reading">&#x2190;&#xFE0E; Back</a></div>
+    </div>
+
+    <div class="box box-page-section">
+      <div class="box-label">Red Teaming against LLM-based Systems</div>
+      <div class="box-body">
+        <div class="reading-topic">
+
+          <div class="reading-insight">
+            <p class="insight-text">Tool-calling agents are vulnerable against instruction integrity breaches (task derailment, tool-call hijacking)</p>
+            <ul class="source-list">
+              <li class="source-item">
+                <span class="source-detail">Attack success varying by attack vector (mixed > DPI > IPI > memory poisoning):</span>
+                <a href="https://arxiv.org/abs/2410.02644" target="_blank" class="source-title">Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents &#x2197;&#xFE0E;</a>
+                <span class="source-meta">Zhang et al., 2025</span>
+              </li>
+              <li class="source-item">
+                <span class="source-detail">Attacking thinking is effective:</span>
+                <a href="https://arxiv.org/abs/2410.02644" target="_blank" class="source-title">Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents &#x2197;&#xFE0E;</a>
+                <span class="source-meta">Zhang et al., 2025</span>
+              </li>
+              <li class="source-item">
+                <span class="source-detail">RL-finetuned models generate effective injections:</span>
+                <a href="https://arxiv.org/abs/2510.04885" target="_blank" class="source-title">RL Is a Hammer and LLMs Are Nails: A Simple Reinforcement Learning Recipe for Strong Prompt Injection &#x2197;&#xFE0E;</a>
+                <span class="source-meta">Wen et al., 2025</span>
+              </li>
+              <li class="source-item">
+                <span class="source-detail">Automated direct prompt injection works:</span>
+                <a href="https://arxiv.org/abs/2505.05849" target="_blank" class="source-title">AgentVigil: Generic Black-Box Red-teaming for Indirect Prompt Injection against LLM Agents &#x2197;&#xFE0E;</a>
+                <span class="source-meta">Wang et al., 2025</span>
+              </li>
+            </ul>
+          </div>
+
+          <div class="reading-insight">
+            <p class="insight-text">LLMs are vulnerable against data leakage (system prompt extraction, training data leakage)</p>
+            <ul class="source-list">
+              <li class="source-item">
+                <span class="source-detail">RL-finetuned models are effective:</span>
+                <a href="https://openreview.net/pdf?id=WIfns41MAb" target="_blank" class="source-title">LeakAgent: RL-based Red-teaming Agent for LLM Privacy Leakage &#x2197;&#xFE0E;</a>
+                <span class="source-meta">Nie et al., 2025</span>
+              </li>
+            </ul>
+          </div>
+
+          <div class="reading-insight">
+            <p class="insight-text">LLMs are vulnerable against jailbreaks</p>
+            <ul class="source-list">
+              <li class="source-item">
+                <span class="source-detail">RL-finetuned models are effective:</span>
+                <a href="https://arxiv.org/abs/2510.04885" target="_blank" class="source-title">RL Is a Hammer and LLMs Are Nails: A Simple Reinforcement Learning Recipe for Strong Prompt Injection &#x2197;&#xFE0E;</a>
+                <span class="source-meta">Wen et al., 2025</span>
+              </li>
+            </ul>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="box box-page-section">
+      <div class="box-label">Securing LLM-based Systems</div>
+      <div class="box-body">
+        <div class="reading-topic">
+
+          <div class="reading-insight">
+            <p class="insight-text">Defenses against DPI and IPI are ineffective</p>
+            <ul class="source-list">
+              <li class="source-item">
+                <span class="source-detail">RL-finetuned models evade detection:</span>
+                <a href="https://arxiv.org/abs/2510.04885" target="_blank" class="source-title">RL Is a Hammer and LLMs Are Nails: A Simple Reinforcement Learning Recipe for Strong Prompt Injection &#x2197;&#xFE0E;</a>
+                <span class="source-meta">Wen et al., 2025</span>
+              </li>
+              <li class="source-item">
+                <a href="https://arxiv.org/abs/2410.02644" target="_blank" class="source-title">Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents &#x2197;&#xFE0E;</a>
+                <span class="source-meta">Zhang et al., 2025</span>
+              </li>
+            </ul>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- TEMPLATE: Topic with insights and sources
+    <div class="box box-page-section">
+      <div class="box-label">Topic Name</div>
+      <div class="box-body">
+        <div class="reading-topic">
+
+          <div class="reading-insight">
+            <p class="insight-text">Insight statement goes here</p>
+            <ul class="source-list">
+              <li class="source-item">
+                <a href="https://example.com" target="_blank" class="source-title">Paper Title &#x2197;&#xFE0E;</a>
+                <span class="source-meta">Author et al., 2024</span>
+              </li>
+            </ul>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  -->
+
+</body>
+</html>

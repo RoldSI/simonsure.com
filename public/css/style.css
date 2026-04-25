@@ -387,6 +387,11 @@ a.source-title:hover {
   color: var(--color-text);
 }
 
+.source-detail {
+  font-size: 0.72rem;
+  color: var(--color-text);
+}
+
 .source-meta {
   font-family: var(--font-mono);
   font-size: 0.62rem;
