@@ -33,7 +33,65 @@
         <div class="reading-topic">
 
           <div class="reading-insight">
-            <p class="insight-text">Tool-calling agents are vulnerable against instruction integrity breaches (task derailment, tool-call hijacking)</p>
+            <p class="insight-text">Attackers use a variety of capabilities: injection (direct/indirect, prompt/data), poisoning (tools, model, memory)</p>
+            <ul class="source-list">
+              <li class="source-item">
+                <span class="source-detail">Six attack vectors:</span>
+                <a href="https://arxiv.org/abs/2603.11088" target="_blank" class="source-title">The Attack and Defense Landscape of Agentic AI: A Comprehensive Survey &#x2197;&#xFE0E;</a>
+                <span class="source-meta">Kim et al., 2026</span>
+              </li>
+            </ul>
+          </div>
+
+          <div class="reading-insight">
+            <p class="insight-text">Commercial LLM-based products are vulnerable</p>
+            <ul class="source-list">
+              <li class="source-item">
+                <span class="source-detail">OS-level RCE via MCP OAuth path (CVSS 9.6):</span>
+                <a href="https://research.jfrog.com/vulnerabilities/mcp-remote-command-injection-rce-jfsa-2025-001290844/" target="_blank" class="source-title">CVE-2025-6514: Critical RCE in mcp-remote &#x2197;&#xFE0E;</a>
+                <span class="source-meta">JFrog Security Research, 2025</span>
+              </li>
+              <li class="source-item">
+                <span class="source-detail">CRM data exfil via expired CSP domain (CVSS 9.4):</span>
+                <a href="https://noma.security/blog/forcedleak-agent-risks-exposed-in-salesforce-agentforce/" target="_blank" class="source-title">ForcedLeak: Agent Risks Exposed in Salesforce Agentforce &#x2197;&#xFE0E;</a>
+                <span class="source-meta">Levi & Tron (Noma Security), 2025</span>
+              </li>
+              <li class="source-item">
+                <span class="source-detail">Cross-channel secret exfil via enterprise chat RAG:</span>
+                <a href="https://promptarmor.com/resources/data-exfiltration-from-slack-ai-via-indirect-prompt-injection" target="_blank" class="source-title">Data Exfiltration from Slack AI via Indirect Prompt Injection &#x2197;&#xFE0E;</a>
+                <span class="source-meta">PromptArmor, 2024</span>
+              </li>
+              <li class="source-item">
+                <span class="source-detail">Source code exfil via platform image proxy (CVSS 9.6):</span>
+                <a href="https://www.legitsecurity.com/blog/camoleak-critical-github-copilot-vulnerability-leaks-private-source-code" target="_blank" class="source-title">CamoLeak: Critical GitHub Copilot Vulnerability Leaks Private Source Code &#x2197;&#xFE0E;</a>
+                <span class="source-meta">Mayraz (Legit Security), 2025</span>
+              </li>
+              <li class="source-item">
+                <span class="source-detail">Full account takeover via agentic browser page summarization:</span>
+                <a href="https://brave.com/blog/comet-prompt-injection/" target="_blank" class="source-title">Agentic Browser Security: Indirect Prompt Injection in Perplexity Comet &#x2197;&#xFE0E;</a>
+                <span class="source-meta">Chaikin & Sahib (Brave Security), 2025</span>
+              </li>
+              <li class="source-item">
+                <span class="source-detail">Persistent cross-session exfil via memory poisoning:</span>
+                <a href="https://embracethered.com/blog/posts/2024/chatgpt-macos-app-persistent-data-exfiltration/" target="_blank" class="source-title">SpAIware: Persistent Long-Term-Memory Compromise of ChatGPT &#x2197;&#xFE0E;</a>
+                <span class="source-meta">Rehberger (Embrace The Red), 2024</span>
+              </li>
+            </ul>
+          </div>
+
+          <div class="reading-insight">
+            <p class="insight-text">Current LLM agents are vulnerable to cross-environment exploits and long-chain attacks</p>
+            <ul class="source-list">
+              <li class="source-item">
+                <span class="source-detail">Automatic multi-stage attack chains:</span>
+                <a href="https://arxiv.org/abs/2512.19016" target="_blank" class="source-title">DREAM: Dynamic Red-teaming across Environments for AI Models &#x2197;&#xFE0E;</a>
+                <span class="source-meta">Lu et al., 2025</span>
+              </li>
+            </ul>
+          </div>
+
+          <div class="reading-insight">
+            <p class="insight-text">Tool-calling agents are vulnerable via prompt injection to instruction integrity breaches (task derailment, tool-call hijacking)</p>
             <ul class="source-list">
               <li class="source-item">
                 <span class="source-detail">Effective attack with multiple indirect injections in unknown order:</span>
@@ -41,12 +99,7 @@
                 <span class="source-meta">Wang, Jia & Gong, 2025</span>
               </li>
               <li class="source-item">
-                <span class="source-detail">Attack success varying by attack vector (mixed > DPI > IPI > memory poisoning):</span>
-                <a href="https://arxiv.org/abs/2410.02644" target="_blank" class="source-title">Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents &#x2197;&#xFE0E;</a>
-                <span class="source-meta">Zhang et al., 2025</span>
-              </li>
-              <li class="source-item">
-                <span class="source-detail">Attacking thinking is effective:</span>
+                <span class="source-detail">Mix of DPI and IPI most effective:</span>
                 <a href="https://arxiv.org/abs/2410.02644" target="_blank" class="source-title">Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents &#x2197;&#xFE0E;</a>
                 <span class="source-meta">Zhang et al., 2025</span>
               </li>
@@ -69,7 +122,39 @@
           </div>
 
           <div class="reading-insight">
-            <p class="insight-text">LLMs are vulnerable against data leakage (system prompt extraction, training data leakage)</p>
+            <p class="insight-text">Tool-calling agents are vulnerable via memory poisoning</p>
+            <ul class="source-list">
+              <li class="source-item">
+                <a href="https://arxiv.org/abs/2410.02644" target="_blank" class="source-title">Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents &#x2197;&#xFE0E;</a>
+                <span class="source-meta">Zhang et al., 2025</span>
+              </li>
+            </ul>
+          </div>
+
+          <div class="reading-insight">
+            <p class="insight-text">Tool-calling agents are vulnerable via thinking hijacking</p>
+            <ul class="source-list">
+              <li class="source-item">
+                <span class="source-detail">Attacking thinking is effective:</span>
+                <a href="https://arxiv.org/abs/2410.02644" target="_blank" class="source-title">Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents &#x2197;&#xFE0E;</a>
+                <span class="source-meta">Zhang et al., 2025</span>
+              </li>
+            </ul>
+          </div>
+
+          <div class="reading-insight">
+            <p class="insight-text">Tool-calling agents are vulnerable via tool selection</p>
+            <ul class="source-list">
+              <li class="source-item">
+                <span class="source-detail">Optimization for tool retrieval and selection:</span>
+                <a href="https://arxiv.org/abs/2504.19793" target="_blank" class="source-title">Prompt Injection Attack to Tool Selection in LLM Agents &#x2197;&#xFE0E;</a>
+                <span class="source-meta">Shi et al., 2025</span>
+              </li>
+            </ul>
+          </div>
+
+          <div class="reading-insight">
+            <p class="insight-text">LLMs are vulnerable to data leakage (system prompt extraction, training data leakage)</p>
             <ul class="source-list">
               <li class="source-item">
                 <span class="source-detail">RL-finetuned models are effective:</span>
@@ -80,12 +165,68 @@
           </div>
 
           <div class="reading-insight">
-            <p class="insight-text">LLMs are vulnerable against jailbreaks</p>
+            <p class="insight-text">LLMs are vulnerable to jailbreaks</p>
             <ul class="source-list">
               <li class="source-item">
-                <span class="source-detail">RL-finetuned models are effective:</span>
+                <span class="source-detail">RL-finetuned models are effective prompt generators:</span>
                 <a href="https://arxiv.org/abs/2510.04885" target="_blank" class="source-title">RL Is a Hammer and LLMs Are Nails: A Simple Reinforcement Learning Recipe for Strong Prompt Injection &#x2197;&#xFE0E;</a>
                 <span class="source-meta">Wen et al., 2025</span>
+              </li>
+              <li class="source-item">
+                <span class="source-detail">Adaptive attacks based on logprobs very effective:</span>
+                <a href="https://arxiv.org/abs/2404.02151" target="_blank" class="source-title">Jailbreaking Leading Safety-Aligned LLMs with Simple Adaptive Attacks &#x2197;&#xFE0E;</a>
+                <span class="source-meta">Andriushchenko, Croce & Flammarion, 2024</span>
+              </li>
+            </ul>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="box box-page-section">
+      <div class="box-label">Formalization</div>
+      <div class="box-body">
+        <div class="reading-topic">
+
+          <div class="reading-insight">
+            <p class="insight-text">Threat models are coarse</p>
+            <ul class="source-list">
+              <li class="source-item">
+                <span class="source-detail">External, user-level, internal:</span>
+                <a href="https://arxiv.org/abs/2603.11088" target="_blank" class="source-title">The Attack and Defense Landscape of Agentic AI: A Comprehensive Survey &#x2197;&#xFE0E;</a>
+                <span class="source-meta">Kim et al., 2026</span>
+              </li>
+            </ul>
+          </div>
+
+          <div class="reading-insight">
+            <p class="insight-text">Consequential downstream risks</p>
+            <ul class="source-list">
+              <li class="source-item">
+                <span class="source-detail">Data leakage, unauthorized actions/data corruption, resource drain:</span>
+                <a href="https://arxiv.org/abs/2603.11088" target="_blank" class="source-title">The Attack and Defense Landscape of Agentic AI: A Comprehensive Survey &#x2197;&#xFE0E;</a>
+                <span class="source-meta">Kim et al., 2026</span>
+              </li>
+              <li class="source-item">
+                <span class="source-detail">Zero-click exfiltration of mailbox/SharePoint/OneDrive/Teams from a single email:</span>
+                <a href="https://arxiv.org/abs/2509.10540" target="_blank" class="source-title">EchoLeak: The First Real-World Zero-Click Prompt Injection Exploit in a Production LLM System &#x2197;&#xFE0E;</a>
+                <span class="source-meta">Aim Security, 2025</span>
+              </li>
+              <li class="source-item">
+                <span class="source-detail">Unauthorized financial actions and automated spear-phishing in user's writing style:</span>
+                <a href="https://i.blackhat.com/BH-US-24/Presentations/US24-MichaelBargury-LivingoffMicrosofCopilot.pdf" target="_blank" class="source-title">Living off Microsoft Copilot &#x2197;&#xFE0E;</a>
+                <span class="source-meta">Bargury & Sharbat (Zenity Labs), Black Hat USA 2024</span>
+              </li>
+              <li class="source-item">
+                <span class="source-detail">Digital-to-physical consequences via smart-home actions from a single calendar invite:</span>
+                <a href="https://sites.google.com/view/invitation-is-all-you-need" target="_blank" class="source-title">Invitation Is All You Need! Promptware Attacks Against Gemini for Workspace &#x2197;&#xFE0E;</a>
+                <span class="source-meta">Yair, Nassi & Cohen (SafeBreach Labs), Black Hat USA 2025</span>
+              </li>
+              <li class="source-item">
+                <span class="source-detail">Full host RCE and persistent C2 from a single webpage sentence:</span>
+                <a href="https://embracethered.com/blog/posts/2024/claude-computer-use-c2-the-zombais-are-coming/" target="_blank" class="source-title">ZombAIs: From Prompt Injection to C2 with Claude Computer Use &#x2197;&#xFE0E;</a>
+                <span class="source-meta">Rehberger (Embrace The Red), 2024</span>
               </li>
             </ul>
           </div>
@@ -100,21 +241,93 @@
         <div class="reading-topic">
 
           <div class="reading-insight">
-            <p class="insight-text">Agent's defenses against DPI and IPI are ineffective</p>
+            <p class="insight-text">Defenses patch downstream consequences instead of upstream causes</p>
             <ul class="source-list">
               <li class="source-item">
-                <span class="source-detail">RL-finetuned models evade detection:</span>
+                <span class="source-detail">Explicitly for AutoGPT, implicitly generally:</span>
+                <a href="https://arxiv.org/abs/2603.11088" target="_blank" class="source-title">The Attack and Defense Landscape of Agentic AI: A Comprehensive Survey &#x2197;&#xFE0E;</a>
+                <span class="source-meta">Kim et al., 2026</span>
+              </li>
+            </ul>
+          </div>
+
+          <div class="reading-insight">
+            <p class="insight-text">Large LLM judges are effective defenses</p>
+            <ul class="source-list">
+              <li class="source-item">
+                <span class="source-detail">LLM detector finetuned against optimizing attacker:</span>
+                <a href="https://arxiv.org/abs/2504.11358" target="_blank" class="source-title">DataSentinel: A Game-Theoretic Detection of Prompt Injection Attacks &#x2197;&#xFE0E;</a>
+                <span class="source-meta">Liu et al., 2025</span>
+              </li>
+              <li class="source-item">
+                <span class="source-detail">Off-the-shelf LLM detector effective:</span>
+                <a href="https://arxiv.org/abs/2507.15219" target="_blank" class="source-title">PromptArmor: Simple yet Effective Prompt Injection Defenses &#x2197;&#xFE0E;</a>
+                <span class="source-meta">Shi et al., 2025</span>
+              </li>
+            </ul>
+          </div>
+
+          <div class="reading-insight">
+            <p class="insight-text">Small LLM judges are ineffective defenses</p>
+            <ul class="source-list">
+              <li class="source-item">
+                <span class="source-detail">RL-finetuned models circumvent PI defenses:</span>
                 <a href="https://arxiv.org/abs/2510.04885" target="_blank" class="source-title">RL Is a Hammer and LLMs Are Nails: A Simple Reinforcement Learning Recipe for Strong Prompt Injection &#x2197;&#xFE0E;</a>
                 <span class="source-meta">Wen et al., 2025</span>
               </li>
               <li class="source-item">
-                <span class="source-detail">RL-finetuned models evade detection:</span>
-                <a href="https://openreview.net/pdf?id=WIfns41MAb" target="_blank" class="source-title">LeakAgent: RL-based Red-teaming Agent for LLM Privacy Leakage &#x2197;&#xFE0E;</a>
-                <span class="source-meta">Nie et al., 2025</span>
-              </li>
-              <li class="source-item">
+                <span class="source-detail">Tool-call hijacking despite defenses:</span>
                 <a href="https://arxiv.org/abs/2410.02644" target="_blank" class="source-title">Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents &#x2197;&#xFE0E;</a>
                 <span class="source-meta">Zhang et al., 2025</span>
+              </li>
+            </ul>
+          </div>
+
+          <div class="reading-insight">
+            <p class="insight-text">Tool privilege control effective against grossly harmful actions</p>
+            <ul class="source-list">
+              <li class="source-item">
+                <span class="source-detail">Least privilege preventing out-of-privilege actions of compromised LLM:</span>
+                <a href="https://arxiv.org/abs/2504.11703" target="_blank" class="source-title">Progent: Programmable Privilege Control for LLM Agents &#x2197;&#xFE0E;</a>
+                <span class="source-meta">Shi et al., 2025</span>
+              </li>
+            </ul>
+          </div>
+
+          <div class="reading-insight">
+            <p class="insight-text">Model-level defenses are insufficient</p>
+            <ul class="source-list">
+              <li class="source-item">
+                <span class="source-detail">RL-finetuned models circumvent PI defenses:</span>
+                <a href="https://arxiv.org/abs/2510.04885" target="_blank" class="source-title">RL Is a Hammer and LLMs Are Nails: A Simple Reinforcement Learning Recipe for Strong Prompt Injection &#x2197;&#xFE0E;</a>
+                <span class="source-meta">Wen et al., 2025</span>
+              </li>
+              <li class="source-item">
+                <span class="source-detail">Structured query finetuned model ineffective on small models under optimization attack:</span>
+                <a href="https://arxiv.org/abs/2402.06363" target="_blank" class="source-title">StruQ: Defending Against Prompt Injection with Structured Queries &#x2197;&#xFE0E;</a>
+                <span class="source-meta">Chen et al., 2025</span>
+              </li>
+            </ul>
+          </div>
+
+          <div class="reading-insight">
+            <p class="insight-text">Prompt augmentation is an ineffective defense</p>
+            <ul class="source-list">
+              <li class="source-item">
+                <span class="source-detail">Tool-call hijacking despite defenses:</span>
+                <a href="https://arxiv.org/abs/2410.02644" target="_blank" class="source-title">Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents &#x2197;&#xFE0E;</a>
+                <span class="source-meta">Zhang et al., 2025</span>
+              </li>
+            </ul>
+          </div>
+
+          <div class="reading-insight">
+            <p class="insight-text">Defenses against data extraction are ineffective</p>
+            <ul class="source-list">
+              <li class="source-item">
+                <span class="source-detail">RL-finetuned models circumvent privacy protection:</span>
+                <a href="https://openreview.net/pdf?id=WIfns41MAb" target="_blank" class="source-title">LeakAgent: RL-based Red-teaming Agent for LLM Privacy Leakage &#x2197;&#xFE0E;</a>
+                <span class="source-meta">Nie et al., 2025</span>
               </li>
             </ul>
           </div>
