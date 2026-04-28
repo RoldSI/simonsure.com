@@ -387,7 +387,7 @@ a.source-title:hover {
   color: var(--color-text);
 }
 
-.reading-note {
+p.reading-note {
   font-size: 0.72rem;
   color: var(--color-muted);
   line-height: 1.5;
