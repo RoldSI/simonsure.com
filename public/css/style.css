@@ -437,6 +437,8 @@ p.reading-note {
   }
 
   .box { min-height: 200px; }
+  .box-page-section,
+  .box-page-content { min-height: auto; }
   h1 { font-size: 1.6rem; }
   .big-text { font-size: 1.2rem; }
   .box:hover { transform: scale(1.02); }
