@@ -197,7 +197,16 @@ h2 {
 /* ---- CONTACT BOX ---- */
 
 .box-contact {
-  grid-column: span 2;
+  grid-column: span 1;
+}
+
+.box-projects {
+  grid-column: span 1;
+}
+
+.box-contact .big-text,
+.box-projects .big-text {
+  font-size: 1rem;
 }
 
 .big-text {
